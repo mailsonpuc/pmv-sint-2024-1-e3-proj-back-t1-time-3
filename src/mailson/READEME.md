@@ -3,7 +3,7 @@
 Visando aprender sobre Asp.Net, eu usei o  exemplo do Professor Kleber para ter uma base fundamental para criar a minha tela do Perfil do aluno. 
 ---
 
-O exemplo do Professor Kleber foi tentado reproduzi no meu sistema, que é um linux. Eu tentei fazer de tudo para sair perfeitamente, porém deu error, então recorri à documentação oficial da microsoft e fiz um crude CREATA, UPDATE, DELETE de uma aplicação de filmes.
+O exemplo do Professor Kleber foi tentado reproduzi no meu sistema, que é um linux. Eu tentei fazer de tudo para sair perfeitamente, porém deu error, então recorri à documentação oficial da microsoft e desenvolvi um crude CREATA, UPDATE, DELETE de uma aplicação de filmes.
 
 
 

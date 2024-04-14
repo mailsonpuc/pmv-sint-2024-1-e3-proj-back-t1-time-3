@@ -57,6 +57,12 @@ O exemplo do Professor Kleber foi tentado reproduzi no meu sistema, que é um li
 ---
 
 
+<img alt="pagina migration" src="_img/migration.png">
+
+### Migração `dotnet ef migrations`
+
+---
+
 <img alt="pagina migration" src="_img/dtabase_update.png">
 
 ### Atualiza o banco de dados `dotnet ef database update`

@@ -1,0 +1,1 @@
+﻿insert into AlunoProfessoresDisciplinas values (3,4);

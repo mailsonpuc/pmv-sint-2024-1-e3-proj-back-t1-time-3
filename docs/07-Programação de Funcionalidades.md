@@ -55,4 +55,4 @@ A página de feed tem a função de mostrar ao usuário cartões que incluem det
 <img src="img/feedAluno6.png">
 <img src="img/feedAluno7.png">
 <img src="img/feedAluno8.png">
-<img src="img/feedAluno9.png">
+<img src="img/feedAlunos9.png">

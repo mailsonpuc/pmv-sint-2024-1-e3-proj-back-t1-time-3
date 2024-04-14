@@ -23,7 +23,7 @@ O exemplo do Professor Kleber foi tentado reproduzi no meu sistema, que é um li
 
 
 
-### extensoẽs usadas
+### extensões usadas
 
 | num  | extensão |
 | --- | --- |
@@ -49,8 +49,7 @@ O exemplo do Professor Kleber foi tentado reproduzi no meu sistema, que é um li
 
  
  # captura de tela do app feito
- ## embaixo segue as capturas de tela da aplicacao web crude, CREATE, UPDATE, DELETE.
-
+ ## Abaixo segue as capturas de tela da aplicação web crude, CREATE, UPDATE, DELETE.
 
 <img alt="pagina migration" src="_img/gerar_paginas.png">
 
@@ -74,7 +73,7 @@ O exemplo do Professor Kleber foi tentado reproduzi no meu sistema, que é um li
 
 <img alt="pagina migration" src="_img/crud.png">
 
-### CRUD DA APLICAÇAO `CREATE`, `UPDATE`, `DELETE`
+### CRUDE DA APLICAÇÃO `CREATE`, `UPDATE`, `DELETE`
 ---
 
 

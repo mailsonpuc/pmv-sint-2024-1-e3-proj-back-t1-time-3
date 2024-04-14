@@ -51,7 +51,7 @@ O exemplo do Professor Kleber foi tentado reproduzi no meu sistema, que é um li
  # captura de tela do app feito
  ## Abaixo segue as capturas de tela da aplicação web crude, CREATE, UPDATE, DELETE.
 
-<img alt="pagina migration" src="_img/gerar_paginas.png">
+<img alt="gerar pagina " src="_img/gerar_paginas.png">
 
 ### Gerar pagina com `aspnet-codegenerator`
 ---
@@ -63,7 +63,7 @@ O exemplo do Professor Kleber foi tentado reproduzi no meu sistema, que é um li
 
 ---
 
-<img alt="pagina migration" src="_img/dtabase_update.png">
+<img alt="update" src="_img/dtabase_update.png">
 
 ### Atualiza o banco de dados `dotnet ef database update`
 
@@ -71,15 +71,19 @@ O exemplo do Professor Kleber foi tentado reproduzi no meu sistema, que é um li
 
 
 
-<img alt="pagina migration" src="_img/dados_inseridos_no_sqlite.png">
+<img alt="inserindo banco de dados" src="_img/dados_inseridos_no_sqlite.png">
 
 ### Dados inserido no banco de dados sqlite
 ---
 
 
-<img alt="pagina migration" src="_img/crud.png">
+<img alt="pagina crud" src="_img/crud.png">
 
 ### CRUDE DA APLICAÇÃO `CREATE`, `UPDATE`, `DELETE`
 ---
 
 
+<img alt="aplicaçao com banco de ddos" src="_img/prova.png">
+APLICAÇÂO COM BANCO DE DADOS
+
+---

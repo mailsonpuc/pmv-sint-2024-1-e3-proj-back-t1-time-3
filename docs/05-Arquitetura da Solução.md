@@ -43,17 +43,24 @@ Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, 
 Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
 
 # As tecnologias que serão utilizadas são:
-| Linguagems de programação ou marcação  | FRAMEWORK           | SISTEMAS      | IDLS               | BIBLIOTECAS DO .NET                               |           
-|     -------------                      | -------------       | ------------- | -------------      |        -------------                              |
-| C Sharp                                | .NET Framework 8.0  |  WINDOWNS     |  VISUAL STUDIO     | Microsoft.EntityFrameworkCore                     |
-| Java Script                            |   BOOTSTRAP         |  LINUX        | VISUAL STUDIO CODE | Microsoft.EntityFrameworkCore.Tools               |
-| HTML5                                  |  JQUERY             |  MAC          |                    | MySql.EntityFrameworkCore                         |
-| CSS3                                   |                     |  ANDROID      |                    | Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation |
-|                                        |                     |               |                    | Microsoft.EntityFrameworkCore.SQLite              |
-|                                        |                     |               |                    | Microsoft.EntityFrameworkCore.SqlServer           |
-|                                        |                     |               |                    | Microsoft.EntityFrameworkCore.Design              |
-|                                        |                     |               |                    | Microsoft.VisualStudio.Web.CodeGeneration.Design  |
+| Linguagems de programação ou marcação  | FRAMEWORK           | SISTEMAS      | IDLS               |           
+|     -------------                      | -------------       | ------------- | -------------      |       
+| C Sharp                                | .NET Framework 8.0  |  WINDOWNS     |  VISUAL STUDIO     |       
+| Java Script                            |   BOOTSTRAP         |  LINUX        | VISUAL STUDIO CODE | 
+| HTML5                                  |  JQUERY             |  MAC          |                    | 
+| CSS3                                   |                     |  ANDROID      |                    | 
 
+
+| BIBLIOTECAS DO .NET                               |           
+|        -------------                              |
+| Microsoft.EntityFrameworkCore                     |
+| Microsoft.EntityFrameworkCore.Tools               |
+| MySql.EntityFrameworkCore                         |
+| Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation |
+| Microsoft.EntityFrameworkCore.SQLite              |
+| Microsoft.EntityFrameworkCore.SqlServer           |
+| Microsoft.EntityFrameworkCore.Design              |
+| Microsoft.VisualStudio.Web.CodeGeneration.Design  |
 
 
 ---

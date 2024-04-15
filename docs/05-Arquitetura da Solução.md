@@ -37,7 +37,7 @@ Entregar um arquivo dml.sql contendo os scripts de manipulação de banco de dad
 
 
 # As tecnologias que serão utilizadas são:
-| Linguagems de programação ou marcação  | FRAMEWORK           | SISTEMAS      | IDLS               |           
+| Linguagens de programação ou marcação  | FRAMEWORK           | SISTEMAS      | IDLS               |           
 |     -------------                      | -------------       | ------------- | -------------      |       
 | C Sharp                                | .NET Framework 8.0  |  WINDOWNS     |  VISUAL STUDIO     |       
 | Java Script                            |   BOOTSTRAP         |  LINUX        | VISUAL STUDIO CODE | 

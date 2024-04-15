@@ -158,3 +158,34 @@ Aprendendo sobre Asp.Net, usei os exemplos do Professor Kleber para ter uma base
 <img src="img/FeedProfessor1.png">
 <img src="img/FeedProfessor2.png">
 <img src="img/FeedProfessor3.png">
+
+# Marco Antonio de Oliveira C. Júnior - HOME (página inicial)
+
+---
+
+O QUE FOI REALIZADO ATÉ O MOMENTO:
+Tela inicial foi criada.
+Exemplos foram reproduzidos.
+Uma variante do exemplo foi criada.
+Foi associada à tela de login uma funcionalidade de registro/login utilizando o modelo de autenticação "Individual Accounts" junto ao IdentityDbContext.
+
+---
+
+COMO FOI ESTUDADO:
+Através dos exemplos do microfundamento, mas principalmente por meio de exemplos encontrados em videoaulas diversas e na própria documentação do ASP.NET.
+
+---
+
+PROBLEMAS ENCONTRADOS:
+Foram encontrados diversos problemas durante a implementação, desde não conseguir enviar dados ao Banco de Dados até problemas em instanciar as classes do Entity Framework.
+
+---
+
+| Prints referentes aos exemplos do microfundamento |
+| ------------------------------------------------- |
+
+| Prints referentes a tela Home |
+| ----------------------------- |
+
+| Prints de outras funcionalidades desenvolvidas |
+| ---------------------------------------------- |

@@ -1,0 +1,19 @@
+@model MvcMovie.Models.LoginViewModel
+
+<form asp-action="Login">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    
+    <div class="form-group">
+        <label asp-for="UsernameOrEmail"></label>
+        <input asp-for="UsernameOrEmail" class="form-control" />
+        <span asp-validation-for="UsernameOrEmail" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Password"></label>
+        <input asp-for="Password" class="form-control" />
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div><br/>
+
+    <button type="submit" class="btn btn-primary">Login</button>
+</form>

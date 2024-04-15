@@ -46,6 +46,16 @@ Entregar um arquivo dml.sql contendo os scripts de manipulação de banco de dad
 
 Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
 
+# As tecnologias que serão utilizadas são:
+| Linguagems de programação ou marcação  | FRAMEWORK           | SISTEMAS      |
+|     -------------                      | -------------       | ------------- |
+| C Sharp                                | .NET Framework 8.0  |  WINDOWNS     |
+| Java Script                            |   BOOTSTRAP         |  LINUX        |
+| HTML5                                  |  JQUERY             |  MAC          |
+| CSS3                                   |                     |  ANDROID      |
+
+
+---
 Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
 
 ## Hospedagem

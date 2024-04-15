@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\nickolas-mendonca-feed-aluno.props" />
+</Project>

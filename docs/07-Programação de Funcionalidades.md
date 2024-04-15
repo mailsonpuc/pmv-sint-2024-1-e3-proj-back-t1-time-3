@@ -164,28 +164,39 @@ Aprendendo sobre Asp.Net, usei os exemplos do Professor Kleber para ter uma base
 ---
 
 O QUE FOI REALIZADO ATÉ O MOMENTO:
-Tela inicial foi criada.
-Exemplos foram reproduzidos.
-Uma variante do exemplo foi criada.
-Foi associada à tela de login uma funcionalidade de registro/login utilizando o modelo de autenticação "Individual Accounts" junto ao IdentityDbContext.
-
----
+- A tela home foi realizada.
+- Exemplos foram reproduzidos.
+- Uma aplicação variante do exemplo dos microfundamentos foi criada.
+- Foi associada à tela de login uma funcionalidade de registro/login utilizando o modelo de autenticação "Individual Accounts" junto ao IdentityDbContext.
 
 COMO FOI ESTUDADO:
-Através dos exemplos do microfundamento, mas principalmente por meio de exemplos encontrados em videoaulas diversas e na própria documentação do ASP.NET.
-
----
+- Através dos exemplos do microfundamento, mas principalmente por meio de exemplos encontrados em videoaulas diversas e na própria documentação do ASP.NET.
 
 PROBLEMAS ENCONTRADOS:
-Foram encontrados diversos problemas durante a implementação, desde não conseguir enviar dados ao Banco de Dados até problemas em instanciar as classes do Entity Framework.
+- Foram encontrados diversos problemas durante a implementação, desde não conseguir enviar dados ao Banco de Dados até problemas em instanciar as classes do Entity Framework.
 
 ---
 
 | Prints referentes aos exemplos do microfundamento |
 | ------------------------------------------------- |
 
+<img src="img/marco-imgs/exemplo-db.png">
+<img src="img/marco-imgs/exemplo-detalhes.png">
+<img src="img/marco-imgs/exemplo-produtos.png">
+
+
 | Prints referentes a tela Home |
 | ----------------------------- |
 
-| Prints de outras funcionalidades desenvolvidas |
-| ---------------------------------------------- |
+<img src="img/marco-imgs/aplicação-home.png">
+
+| Prints referentes a outras funcionalidades desenvolvidas |
+| -------------------------------------------------------- |
+
+<img src="img/marco-imgs/aplicação-professorregister.png">
+<img src="img/marco-imgs/aplicação-alunoregister.png">
+<img src="img/marco-imgs/aplicação-login.png">
+<img src="img/marco-imgs/aplicação-DBroles.png">
+<img src="img/marco-imgs/aplicação-DBusers.png">
+<img src="img/marco-imgs/aplicação-DBuserroles.png">
+<img src="img/marco-imgs/aplicação-seed.png">

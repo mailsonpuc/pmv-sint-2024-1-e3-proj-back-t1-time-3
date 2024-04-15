@@ -149,3 +149,12 @@ O exemplo do Professor Kleber foi tentado reproduzi no meu sistema, que é um li
 APLICAÇÂO COM BANCO DE DADOS
 
 ---
+
+
+# Lizandra Ruiz Cavalcante dos Santos - Feed Professor
+Aprendendo sobre Asp.Net, usei os exemplos do Professor Kleber para ter uma base fundamental para criar a minha tela de Feed de Professor. Com isso foquei na criação de banco de dados de professores para poder testar no minha tela sobre o professor, onde os alunos vao saber um pouco sobre ele e ver sobre oque ele ensina.
+
+
+<img src="img/FeedProfessor1.png">
+<img src="img/FeedProfessor2.png">
+<img src="img/FeedProfessor3.png">

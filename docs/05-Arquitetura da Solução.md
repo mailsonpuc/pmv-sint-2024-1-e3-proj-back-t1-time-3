@@ -20,11 +20,11 @@ Abaixo segue o diagrma de classe elaborado para experssar este projeto:
 
 ## Modelo ER
 
-(img/mer.png)
+![Modelo ER](img/mer.png)
 
 ## Esquema Relacional
 
-(img/relacionamento.png)
+![Esquema relacional](img/relacionamento.png)
 
 ## Modelo Físico (DDL)
 

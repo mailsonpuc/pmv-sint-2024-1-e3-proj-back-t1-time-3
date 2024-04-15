@@ -1,0 +1,49 @@
+﻿@model IEnumerable<nickolas_mendonca_feed_aluno.Models.Usuario>
+
+@{
+    ViewData["Title"] = "Usuários";
+}
+
+<h1>Usuários</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-outline-success">Adicionar Novo Usuários</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th >
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            
+            <th>
+                @Html.DisplayNameFor(model => model.TipoUsuario)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+                <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+          
+            <td>
+                @Html.DisplayFor(modelItem => item.TipoUsuario)
+            </td>
+            <td>
+                <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-outline-info">Detalhes</a> |
+                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-outline-warning">Editar</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-outline-danger">Excluir</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

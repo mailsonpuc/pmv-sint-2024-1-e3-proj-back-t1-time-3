@@ -1,0 +1,143 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = nickolas_mendonca_feed_aluno
+build_property.RootNamespace = nickolas_mendonca_feed_aluno
+build_property.ProjectDir = C:\repositorios\puc\pmv-sint-2024-1-e3-proj-back-t1-time-3\src\nickolas-mendonca-feed-aluno\nickolas-mendonca-feed-aluno\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\repositorios\puc\pmv-sint-2024-1-e3-proj-back-t1-time-3\src\nickolas-mendonca-feed-aluno\nickolas-mendonca-feed-aluno
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/nickolas-mendonca-feed-aluno/nickolas-mendonca-feed-aluno/Views/AlunoProfessoresDisciplinas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9Qcm9mZXNzb3Jlc0Rpc2NpcGxpbmFzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/nickolas-mendonca-feed-aluno/nickolas-mendonca-feed-aluno/Views/AlunoProfessoresDisciplinas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9Qcm9mZXNzb3Jlc0Rpc2NpcGxpbmFzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/nickolas-mendonca-feed-aluno/nickolas-mendonca-feed-aluno/Views/AlunoProfessoresDisciplinas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9Qcm9mZXNzb3Jlc0Rpc2NpcGxpbmFzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/nickolas-mendonca-feed-aluno/nickolas-mendonca-feed-aluno/Views/AlunoProfessoresDisciplinas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9Qcm9mZXNzb3Jlc0Rpc2NpcGxpbmFzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/nickolas-mendonca-feed-aluno/nickolas-mendonca-feed-aluno/Views/AlunoProfessoresDisciplinas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9Qcm9mZXNzb3Jlc0Rpc2NpcGxpbmFzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/nickolas-mendonca-feed-aluno/nickolas-mendonca-feed-aluno/Views/Disciplinas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY2lwbGluYXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/nickolas-mendonca-feed-aluno/nickolas-mendonca-feed-aluno/Views/Disciplinas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY2lwbGluYXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/nickolas-mendonca-feed-aluno/nickolas-mendonca-feed-aluno/Views/Disciplinas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY2lwbGluYXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/nickolas-mendonca-feed-aluno/nickolas-mendonca-feed-aluno/Views/Disciplinas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY2lwbGluYXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/nickolas-mendonca-feed-aluno/nickolas-mendonca-feed-aluno/Views/Disciplinas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzY2lwbGluYXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/nickolas-mendonca-feed-aluno/nickolas-mendonca-feed-aluno/Views/FeedAlunos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVlZEFsdW5vc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/nickolas-mendonca-feed-aluno/nickolas-mendonca-feed-aluno/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/nickolas-mendonca-feed-aluno/nickolas-mendonca-feed-aluno/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/nickolas-mendonca-feed-aluno/nickolas-mendonca-feed-aluno/Views/ProfessorDisciplinas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzc29yRGlzY2lwbGluYXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/nickolas-mendonca-feed-aluno/nickolas-mendonca-feed-aluno/Views/ProfessorDisciplinas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzc29yRGlzY2lwbGluYXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/nickolas-mendonca-feed-aluno/nickolas-mendonca-feed-aluno/Views/ProfessorDisciplinas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzc29yRGlzY2lwbGluYXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/nickolas-mendonca-feed-aluno/nickolas-mendonca-feed-aluno/Views/ProfessorDisciplinas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzc29yRGlzY2lwbGluYXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/nickolas-mendonca-feed-aluno/nickolas-mendonca-feed-aluno/Views/ProfessorDisciplinas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzc29yRGlzY2lwbGluYXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/nickolas-mendonca-feed-aluno/nickolas-mendonca-feed-aluno/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/nickolas-mendonca-feed-aluno/nickolas-mendonca-feed-aluno/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/nickolas-mendonca-feed-aluno/nickolas-mendonca-feed-aluno/Views/Usuarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/nickolas-mendonca-feed-aluno/nickolas-mendonca-feed-aluno/Views/Usuarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/nickolas-mendonca-feed-aluno/nickolas-mendonca-feed-aluno/Views/Usuarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/nickolas-mendonca-feed-aluno/nickolas-mendonca-feed-aluno/Views/Usuarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/nickolas-mendonca-feed-aluno/nickolas-mendonca-feed-aluno/Views/Usuarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/nickolas-mendonca-feed-aluno/nickolas-mendonca-feed-aluno/Views/Usuarios/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/nickolas-mendonca-feed-aluno/nickolas-mendonca-feed-aluno/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/nickolas-mendonca-feed-aluno/nickolas-mendonca-feed-aluno/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/nickolas-mendonca-feed-aluno/nickolas-mendonca-feed-aluno/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-8608k8p5jp

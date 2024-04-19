@@ -1,0 +1,25 @@
+﻿@model IEnumerable<nickolas_mendonca_feed_aluno.Models.ProfessorDisciplina>
+
+@{
+    ViewData["Title"] = "Feed";
+}
+
+<h1>Feed Aluno</h1>
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+
+        <div class="d-flex justify-content-center">
+            <div class="card my-3" style="width: 20rem;">
+                <div class="card-header">
+                    Professor: @item.Professor.Nome
+                </div>
+                <ul class="list-group list-group-flush">
+                        <li class="list-group-item">@item.Disciplina.Descricao, Valor/aula: R$@item.ValorAula</li>                    
+                    <li class="list-group-item">@item.Resumo</li>
+                </ul>
+            </div>
+        </div>
+    }
+</div>

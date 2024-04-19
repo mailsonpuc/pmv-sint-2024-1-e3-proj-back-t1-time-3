@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/masv/Área de Trabalho/mailson/src/MvcMovie/MvcMovie.csproj": {}
+    "/home/masv/Downloads/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/mailson/MvcMovie.csproj": {}
   },
   "projects": {
-    "/home/masv/Área de Trabalho/mailson/src/MvcMovie/MvcMovie.csproj": {
+    "/home/masv/Downloads/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/mailson/MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/masv/Área de Trabalho/mailson/src/MvcMovie/MvcMovie.csproj",
+        "projectUniqueName": "/home/masv/Downloads/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/mailson/MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "/home/masv/Área de Trabalho/mailson/src/MvcMovie/MvcMovie.csproj",
+        "projectPath": "/home/masv/Downloads/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/mailson/MvcMovie.csproj",
         "packagesPath": "/home/masv/.nuget/packages/",
-        "outputPath": "/home/masv/Área de Trabalho/mailson/src/MvcMovie/obj/",
+        "outputPath": "/home/masv/Downloads/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/mailson/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/masv/.nuget/NuGet/NuGet.Config"

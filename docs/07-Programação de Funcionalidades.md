@@ -200,3 +200,10 @@ PROBLEMAS ENCONTRADOS:
 <img src="img/marco-imgs/aplicação-DBusers.png">
 <img src="img/marco-imgs/aplicação-DBuserroles.png">
 <img src="img/marco-imgs/aplicação-seed.png">
+
+# Frederico Arleo - Cadastro Professor
+
+![image](img/codigo_professor)
+![image](img/codigo_cadastro_professor)
+![image](img/tela_create)
+![image](img/view_dados)

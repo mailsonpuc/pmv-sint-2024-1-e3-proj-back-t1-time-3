@@ -203,7 +203,7 @@ PROBLEMAS ENCONTRADOS:
 
 # Frederico Arleo - Cadastro Professor
 
-![image](img/codigo_professor)
-![image](img/codigo_cadastro_professor)
-![image](img/tela_create)
-![image](img/view_dados)
+![image](img/codigo_professor.png)
+![image](img/codigo_cadastro_professor.png)
+![image](img/tela_create.png)
+![image](img/view_dados.png)

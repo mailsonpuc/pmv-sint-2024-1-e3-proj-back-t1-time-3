@@ -2,6 +2,23 @@
 
 Inclua todas as referências (livros, artigos, sites, etc) utilizados no desenvolvimento do trabalho.
 
-> **Links Úteis**:
+Referência Básica.
+Microfundamentos da Puc minas.
+
+
+> **Referência Bibliográfica Complementar**:
 > - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+
+
+> - [Introdução ao ASP.NET Core MVC](https://learn.microsoft.com/pt-br/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-8.0&tabs=visual-studio)
+
+
+> - [C# Tutorial W3C](https://www.w3schools.com/cs/index.php)
+
+
+> - [SQL Tutorial W3C](
+https://www.w3schools.com/sql/default.asp)
+
+
+
+> - [Criar Diagrama com LucidChat](https://lucid.app/)

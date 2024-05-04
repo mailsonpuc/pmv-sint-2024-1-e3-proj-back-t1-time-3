@@ -50,15 +50,14 @@ Entregar um arquivo dml.sql contendo os scripts de manipulação de banco de dad
 |        -------------                              |
 | Microsoft.EntityFrameworkCore                     |
 | Microsoft.EntityFrameworkCore.Tools               |
-| MySql.EntityFrameworkCore                         |
 | Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation |
 | Microsoft.EntityFrameworkCore.SQLite              |
 | Microsoft.EntityFrameworkCore.SqlServer           |
 | Microsoft.EntityFrameworkCore.Design              |
 | Microsoft.VisualStudio.Web.CodeGeneration.Design  |
+| BCrypt.Net-Next                                   |
+| Pomelo.EntityFrameworkCore.MySql                  |
 
-
----
 
 
 ---

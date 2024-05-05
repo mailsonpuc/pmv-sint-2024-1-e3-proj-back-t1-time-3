@@ -61,7 +61,7 @@ A página de feed tem a função de mostrar ao usuário cartões que incluem det
 # Mailson Da Silva Costa - PERFIL ALUNO
 Estudando sobre Asp.Net, eu usei o exemplo do Professor Kleber para ter uma base fundamental para criar a minha tela do Perfil do aluno. Tive muitos erros pois meu sistema é um Linux.
 
-O exemplo do Professor Kleber foi tentado reproduzir no meu sistema, que é um linux. Eu tentei fazer de tudo para sair perfeitamente, porém deu error, então recorri à documentação oficial da microsoft e desenvolvi um crude CREATA, UPDATE, DELETE de uma aplicação de filmes.
+O exemplo do Professor Kleber foi tentado reproduzir no meu sistema, que é um linux. Eu tentei fazer de tudo para sair perfeitamente, porém deu error, então recorri à documentação oficial da microsoft e desenvolvi um CRUD (Create, Read, Update, Delete) de uma aplicação de filmes.
 
 
 ## Ferramentas usadas
@@ -141,7 +141,7 @@ O exemplo do Professor Kleber foi tentado reproduzir no meu sistema, que é um l
 
 <img alt="pagina crud" src="img/mailson_crud.png">
 
-### CRUDE DA APLICAÇÃO `CREATE`, `UPDATE`, `DELETE`
+### CRUD DA APLICAÇÃO `CREATE`,`READ` `UPDATE`, `DELETE`
 ---
 
 

@@ -16,6 +16,7 @@ namespace projeto.Models
             [Required]
             public string Email { get; set; }
             [Required]
+            [DataType(DataType.Password)]
             public string Senha { get; set; }
             [Required]
             public Materias Materias { get; set; }

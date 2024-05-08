@@ -21,6 +21,7 @@ namespace projeto.Models
 
         
         [Required(ErrorMessage = ("Obrigatório!"))]
+        [DataType(DataType.Password)]
         public string Senha { get; set; }
 
     }

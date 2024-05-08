@@ -54,10 +54,12 @@ namespace projeto.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
+       
         public async Task<IActionResult> Create([Bind("Id,Cpf,Name,Email,Senha,Materias")] Professor professor)
         {
             if (ModelState.IsValid)
             {
+                 professor.Senha = BCrypt.Net.BCrypt.HashPassword(professor.Senha);
                 _context.Add(professor);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
@@ -97,6 +99,7 @@ namespace projeto.Controllers
             {
                 try
                 {
+                    professor.Senha = BCrypt.Net.BCrypt.HashPassword(professor.Senha);
                     _context.Update(professor);
                     await _context.SaveChangesAsync();
                 }

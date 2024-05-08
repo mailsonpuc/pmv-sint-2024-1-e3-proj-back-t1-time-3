@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "1revDSxkrV3AD350Cti/NV+4aot+v12K7shVS5dfpq1Hk7GOQVGt8SKAffYwyR3dzBP9Z8kQxyrJLoaW4BBXRA==",
+  "dgSpecHash": "bkJavYio9eztsHBIL/JMDa6gRryGAbbIizJQ4EOqktZWepk8E64T8aBSIg4V6MDIG3s5pijRB2IaRD1mO8Yd0w==",
   "success": true,
   "projectFilePath": "/home/masv/Área de Trabalho/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/projeto.csproj",
   "expectedPackageFiles": [
     "/home/masv/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",
     "/home/masv/.nuget/packages/azure.identity/1.10.3/azure.identity.1.10.3.nupkg.sha512",
+    "/home/masv/.nuget/packages/bcrypt.net-next/4.0.3/bcrypt.net-next.4.0.3.nupkg.sha512",
     "/home/masv/.nuget/packages/humanizer/2.14.1/humanizer.2.14.1.nupkg.sha512",
     "/home/masv/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/masv/.nuget/packages/humanizer.core.af/2.14.1/humanizer.core.af.2.14.1.nupkg.sha512",

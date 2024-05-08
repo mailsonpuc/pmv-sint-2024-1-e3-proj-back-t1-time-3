@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using BCrypt.Net;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -58,6 +59,7 @@ namespace projeto.Controllers
         {
             if (ModelState.IsValid)
             {
+                aluno.Senha = BCrypt.Net.BCrypt.HashPassword(aluno.Senha);
                 _context.Add(aluno);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
@@ -97,6 +99,8 @@ namespace projeto.Controllers
             {
                 try
                 {
+                    
+                aluno.Senha = BCrypt.Net.BCrypt.HashPassword(aluno.Senha);
                     _context.Update(aluno);
                     await _context.SaveChangesAsync();
                 }

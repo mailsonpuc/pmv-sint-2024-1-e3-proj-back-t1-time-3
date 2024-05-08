@@ -8,7 +8,7 @@ figlet projeto
 #dotnet add package Microsoft.EntityFrameworkCore.Tools               1> /dev/null
 #dotnet add package Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation 1> /dev/null
 #dotnet add package Pomelo.EntityFrameworkCore.MySql                  1> /dev/null
-
+dotnet add package BCrypt.Net-Next
 
 #dotnet aspnet-codegenerator controller  \
 #-name MarcarAulasController             \

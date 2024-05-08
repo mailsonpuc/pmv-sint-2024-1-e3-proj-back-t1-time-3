@@ -1165,3 +1165,4 @@
 /home/masv/Área de Trabalho/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/obj/Debug/net8.0/projeto.pdb
 /home/masv/Área de Trabalho/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/obj/Debug/net8.0/projeto.genruntimeconfig.cache
 /home/masv/Área de Trabalho/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/obj/Debug/net8.0/ref/projeto.dll
+/home/masv/Área de Trabalho/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/bin/Debug/net8.0/BCrypt.Net-Next.dll

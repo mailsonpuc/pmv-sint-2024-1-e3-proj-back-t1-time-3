@@ -17,79 +17,79 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = projeto
 build_property.RootNamespace = projeto
-build_property.ProjectDir = /home/masv/Área de Trabalho/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/
+build_property.ProjectDir = /home/masv/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = /home/masv/Área de Trabalho/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto
+build_property.MSBuildProjectDirectory = /home/masv/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/masv/Área de Trabalho/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Alunos/Create.cshtml]
+[/home/masv/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Alunos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWx1bm9zL0NyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/masv/Área de Trabalho/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Alunos/Delete.cshtml]
+[/home/masv/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Alunos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWx1bm9zL0RlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/masv/Área de Trabalho/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Alunos/Details.cshtml]
+[/home/masv/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Alunos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWx1bm9zL0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/masv/Área de Trabalho/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Alunos/Edit.cshtml]
+[/home/masv/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Alunos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWx1bm9zL0VkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/masv/Área de Trabalho/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Alunos/Index.cshtml]
+[/home/masv/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Alunos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWx1bm9zL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/masv/Área de Trabalho/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Home/Index.cshtml]
+[/home/masv/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/masv/Área de Trabalho/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Home/Privacy.cshtml]
+[/home/masv/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/masv/Área de Trabalho/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Profesors/Create.cshtml]
+[/home/masv/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Profesors/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZmVzb3JzL0NyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/masv/Área de Trabalho/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Profesors/Delete.cshtml]
+[/home/masv/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Profesors/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZmVzb3JzL0RlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/masv/Área de Trabalho/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Profesors/Details.cshtml]
+[/home/masv/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Profesors/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZmVzb3JzL0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/masv/Área de Trabalho/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Profesors/Edit.cshtml]
+[/home/masv/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Profesors/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZmVzb3JzL0VkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/masv/Área de Trabalho/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Profesors/Index.cshtml]
+[/home/masv/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Profesors/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZmVzb3JzL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/masv/Área de Trabalho/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Shared/Error.cshtml]
+[/home/masv/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/masv/Área de Trabalho/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/home/masv/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/masv/Área de Trabalho/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/_ViewImports.cshtml]
+[/home/masv/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/masv/Área de Trabalho/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/_ViewStart.cshtml]
+[/home/masv/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/masv/Área de Trabalho/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Shared/_Layout.cshtml]
+[/home/masv/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-x4i3po8dmc

@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("nickolas-mendonca-feed-aluno")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+759413ba5ecc3a17b48577dfb95eacabfc57ee71")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d5094b2d21894bd2a132fe4e0b701ece11750ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("nickolas-mendonca-feed-aluno")]
 [assembly: System.Reflection.AssemblyTitleAttribute("nickolas-mendonca-feed-aluno")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

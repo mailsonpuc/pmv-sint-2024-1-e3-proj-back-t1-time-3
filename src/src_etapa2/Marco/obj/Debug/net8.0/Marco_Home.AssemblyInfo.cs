@@ -11,12 +11,11 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-Marco_Home-8b84d2ae-45bb-4862-a110-0a519cde1fba")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Marco_Home")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d5094b2d21894bd2a132fe4e0b701ece11750ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("Marco_Home")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Marco_Home")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

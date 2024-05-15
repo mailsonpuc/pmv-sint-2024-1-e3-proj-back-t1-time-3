@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gVw6+yiDewvGvclFunOf1t2VkfdEMUhvPwRhyEQnN8eESRgDZXTxNtAvKHPOQrhTdXhBoutQHo/aDdZ2kJLKVA==",
+  "dgSpecHash": "uyAUI8MoMdXoLUOd1WDhnvD4GupbcaGlnZZk3GDZzScz/A1HNpRvjJzMKjY369/pH+7kWTj1dEkUE0yLtaXD0Q==",
   "success": true,
-  "projectFilePath": "C:\\repositorios\\puc\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\nickolas-mendonca-feed-aluno\\nickolas-mendonca-feed-aluno\\nickolas-mendonca-feed-aluno.csproj",
+  "projectFilePath": "C:\\repositorios\\puc\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa2\\Nickolas\\nickolas-mendonca-feed-aluno\\nickolas-mendonca-feed-aluno.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nicko\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\nicko\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

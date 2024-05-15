@@ -1,0 +1,42 @@
+﻿@model IEnumerable<projeto.Models.Professor>
+
+@{
+    ViewData["Title"] = "Feed";
+    var currentFilter = ViewData["CurrentFilter"] as string;
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="Index" method="get" class="mb-3">
+    <div class="form-group">
+        <input type="text" name="searchString" class="form-control" placeholder="Buscar por nome ou matéria" value="@currentFilter" />
+        <button type="submit" class="btn btn-primary mt-2">Buscar</button>
+    </div>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Email</th>
+            <th>Matéria</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var professor in Model)
+        {
+            <tr>
+                <td>@professor.Name</td>
+                <td>@professor.Email</td>
+                <td>@professor.Materias</td>
+                <td>
+                    <form asp-action="Marcar" method="post">
+                        <input type="hidden" name="professorId" value="@professor.Id" />
+                        <button type="submit" class="btn btn-primary">Marcar Aula</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

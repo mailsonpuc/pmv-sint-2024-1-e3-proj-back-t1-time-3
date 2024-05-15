@@ -17,83 +17,83 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Marco_Home
 build_property.RootNamespace = Marco_Home
-build_property.ProjectDir = C:\Users\M0\source\repos\Marco_Home\Marco_Home\
+build_property.ProjectDir = C:\repositorios\puc\pmv-sint-2024-1-e3-proj-back-t1-time-3\src\src_etapa2\Marco\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\M0\source\repos\Marco_Home\Marco_Home
+build_property.MSBuildProjectDirectory = C:\repositorios\puc\pmv-sint-2024-1-e3-proj-back-t1-time-3\src\src_etapa2\Marco
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/M0/source/repos/Marco_Home/Marco_Home/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa2/Marco/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/M0/source/repos/Marco_Home/Marco_Home/Areas/Identity/Pages/Account/Lockout.cshtml]
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa2/Marco/Areas/Identity/Pages/Account/Lockout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2Nrb3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/M0/source/repos/Marco_Home/Marco_Home/Areas/Identity/Pages/Account/Login.cshtml]
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa2/Marco/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/M0/source/repos/Marco_Home/Marco_Home/Areas/Identity/Pages/Account/Register.cshtml]
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa2/Marco/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/M0/source/repos/Marco_Home/Marco_Home/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa2/Marco/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3RlckNvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/M0/source/repos/Marco_Home/Marco_Home/Areas/Identity/Pages/Account/RegisterTutor.cshtml]
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa2/Marco/Areas/Identity/Pages/Account/RegisterTutor.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3RlclR1dG9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/M0/source/repos/Marco_Home/Marco_Home/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa2/Marco/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/M0/source/repos/Marco_Home/Marco_Home/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa2/Marco/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/M0/source/repos/Marco_Home/Marco_Home/Areas/Identity/Pages/_ViewImports.cshtml]
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa2/Marco/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/M0/source/repos/Marco_Home/Marco_Home/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa2/Marco/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/M0/source/repos/Marco_Home/Marco_Home/Views/Home/Index.cshtml]
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa2/Marco/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/M0/source/repos/Marco_Home/Marco_Home/Views/Home/Privacy.cshtml]
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa2/Marco/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/M0/source/repos/Marco_Home/Marco_Home/Views/Shared/Error.cshtml]
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa2/Marco/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/M0/source/repos/Marco_Home/Marco_Home/Views/Shared/_LoginPartial.cshtml]
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa2/Marco/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/M0/source/repos/Marco_Home/Marco_Home/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa2/Marco/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/M0/source/repos/Marco_Home/Marco_Home/Views/_ViewImports.cshtml]
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa2/Marco/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/M0/source/repos/Marco_Home/Marco_Home/Views/_ViewStart.cshtml]
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa2/Marco/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/M0/source/repos/Marco_Home/Marco_Home/Views/Shared/_Layout.cshtml]
+[C:/repositorios/puc/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa2/Marco/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-8z8qarvu7t

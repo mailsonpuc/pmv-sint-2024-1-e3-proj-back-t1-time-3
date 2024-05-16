@@ -36,8 +36,8 @@ namespace projeto.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Marcar(int professorId)
         {
-            // Pegue o ID do aluno autenticado. Este é um exemplo e deve ser ajustado conforme sua autenticação
-            var alunoId = 1; // Substitua pelo ID do aluno autenticado
+            
+            var alunoId = 1; 
 
             var marcarAula = new MarcarAula
             {

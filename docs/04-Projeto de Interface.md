@@ -3,7 +3,7 @@
 
 ## Diagrama de Fluxo
 
-<img src="img/diagrama-de-casos.png">
+<img src="img//diagram_de_fluxo_eadASync_V2.svg">
 
 ## Wireframes
 

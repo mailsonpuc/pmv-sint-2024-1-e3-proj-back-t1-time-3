@@ -10,8 +10,8 @@ using projeto.Data;
 namespace projeto.Migrations
 {
     [DbContext(typeof(projetoContext))]
-    [Migration("20240508142646_conectando_no_mysql")]
-    partial class conectando_no_mysql
+    [Migration("20240524020631_M01_add_pagina_marcar_Aulas")]
+    partial class M01_add_pagina_marcar_Aulas
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

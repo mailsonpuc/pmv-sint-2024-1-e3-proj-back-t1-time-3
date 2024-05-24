@@ -25,15 +25,29 @@ table {
 <div style="display: flex;align-items: center;">
    <img width="300px" src='https://github.com/mailsonpuc/mailsonpuc.github.io/blob/main/undraw_Male_avatar_g98d.png?raw=true'/>
 
-   <p style="margin-left: 10px;">Usuario 123</p> 
+   <p style="margin-left: 10px;">
+       <!--mostrar nome no perfil --->
+        <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+        </tr>
+}
+    </tbody>
+   </p> 
 </div>
 
 
 
 
+<!---
 <p>
     <a asp-action="Create">Create New</a>
 </p>
+-->
+
 <table class="table">
     <thead>
         <tr>

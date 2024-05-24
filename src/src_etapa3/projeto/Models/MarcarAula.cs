@@ -20,6 +20,7 @@ namespace projeto.Models
 
         public string Conteudo { get; set; }
 
+        [Display(Name = "Confirmação" )]
         public bool Confirmacao { get; set; }
     }
 }

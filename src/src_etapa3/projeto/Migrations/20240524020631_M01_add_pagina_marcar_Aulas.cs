@@ -5,7 +5,7 @@
 namespace projeto.Migrations
 {
     /// <inheritdoc />
-    public partial class conectando_no_mysql : Migration
+    public partial class M01_add_pagina_marcar_Aulas : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

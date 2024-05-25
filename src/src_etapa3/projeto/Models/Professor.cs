@@ -26,7 +26,7 @@ namespace projeto.Models
         public enum Materias
         {
             Matemática,
-            Portugês,
+            Português,
             Inglês,
             Biologia,
             Química,

@@ -22,8 +22,11 @@
             </div>
             <div class="form-group">
                 <label asp-for="Conteudo" class="control-label"></label>
-                <input asp-for="Conteudo" class="form-control" />
+                
+                <select asp-for="Conteudo" class="form-control" asp-items="Html.GetEnumSelectList<Materias>()"></select>
                 <span asp-validation-for="Conteudo" class="text-danger"></span>
+                
+
             </div>
             <div class="form-group form-check">
                 <label class="form-check-label">

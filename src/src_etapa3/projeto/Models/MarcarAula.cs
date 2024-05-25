@@ -23,4 +23,19 @@ namespace projeto.Models
         [Display(Name = "Confirmação" )]
         public bool Confirmacao { get; set; }
     }
+     public enum Conteudo
+        {
+            Matemática,
+            Portugês,
+            Inglês,
+            Biologia,
+            Química,
+            Física,
+            Filosofia,
+            Espanhol,
+            História,
+            Geografia,
+            Sociologia,
+
+        }
 }

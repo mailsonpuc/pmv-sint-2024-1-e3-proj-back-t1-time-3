@@ -20,6 +20,7 @@
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.Conteudo)
+               
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.Confirmacao)
@@ -29,6 +30,9 @@
     </thead>
     <tbody>
 @foreach (var item in Model) {
+
+    
+
         <tr>
             <td>
                 @Html.DisplayFor(modelItem => item.Professor.Cpf)
@@ -37,7 +41,68 @@
                 @Html.DisplayFor(modelItem => item.Aluno.Email)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Conteudo)
+               <!---
+                @Html.DisplayFor(modelItem => item.Conteudo) 
+               if para mostrar no index de marcar aula, qual conteudo foi selecionado.
+               --->
+               @if (@item.Conteudo == "0")
+                 {
+                  <p>Matemática</p>
+                 }
+
+                 else if (@item.Conteudo == "1")
+                {
+                      <p>Português</p>
+                 }
+
+                  else if (@item.Conteudo == "2")
+                {
+                      <p>Inglês</p>
+                 }
+
+                  else if (@item.Conteudo == "3")
+                {
+                      <p>Biologia</p>
+                 }
+
+                  else if (@item.Conteudo == "4")
+                {
+                      <p>Química</p>
+                 }
+
+                  else if (@item.Conteudo == "5")
+                {
+                      <p>Física</p>
+                 }
+
+                  else if (@item.Conteudo == "6")
+                {
+                      <p>Filosofia</p>
+                 }
+
+                  else if (@item.Conteudo == "7")
+                {
+                      <p>Espanhol</p>
+                 }
+
+                  else if (@item.Conteudo == "8")
+                {
+                      <p> História</p>
+                 }
+
+                  else if (@item.Conteudo == "9")
+                {
+                      <p>Geografia</p>
+                 }
+
+                  else if (@item.Conteudo == "10")
+                {
+                      <p>Sociologia</p>
+                 }
+
+              
+
+               
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Confirmacao)

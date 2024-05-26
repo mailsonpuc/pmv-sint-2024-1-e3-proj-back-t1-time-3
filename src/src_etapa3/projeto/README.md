@@ -13,18 +13,37 @@ Em ambos os casos você pode (focado no terminal) apertar CTRL + R para reinicia
 
 
 ## Tutorial simplificado:
+O que é o arquivo `config.sh`? 
+É um arquivo bash script do Linux eu coloquei os comandos do dotnet cli dentro, para ele fazer tudo de uma vez para não fica baixando pacotes a cada um tendo que digita o comando repetido.
 
-   -  A aula do professor Kléber mostra como fazer a migração e a atualização no Visual Studio; no meu caso, como não estou usando ele, faço pelo terminal, onde os comandos são (pelo Dotnet CLI): `$ dotnet ef migrations add M<NÚMERO>_<NOME>`
-      -  Para mantermos um padrão, faça as migrações neste padrão ali, começando com M, seguido de um número, underscore, e o nome (**TUDO JUNTO E CAMELCASE**) da ação que causou a migração (ex: `M2_AddCliente`, `M14-RemovidoPastel`, etc.)
-   -  Depois de já ter migrado, faça a atualização (de novo, no Visual Studio o professor explica como é lá), no terminal é: `$ dotnet ef database update`
-3. Após isso, crie o controlador e as views juntos. Não necessariamente todas as ações precisam corresponder à alguma view em si (por exemplo, no login, o logout (deslogar) é uma ação do controlador que não precisa de view)
-   -  No Visual Studio tem uns recursos pra criar isso atuomaticamente pela GUI
-   -  No terminal você precisa instalar (preferencialmente o `aspnet-codegenerator`) e daí:
-      ```sh
-          dotnet aspnet-codegenerator controller -name <NOME_DO_CONTROLADOR> -m <NOME_DO_MODELO> -dc projeto.Data.projetoContext --relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries
+## Onde está o dbcontext?
+Está dentro da pasta Data
+Como pode ver pelo comando cli do net 
+-dc o contexto de dados
+`dotnet aspnet-codegenerator  -dc projeto.Data.projetoContext`
 
-      ```
-      -  No caso, você pode omitir o `--useDefaultLayout` dependendo do caso (ele irá criar automaticamente o CRUD (view para **C**reate, **R**ead, **U**pdate, **D**elete, além de um de detalhes individuais e listando todos os objetos))
+## Qual banco de dados a aplicação está usando?
+Está usando SQLite, porem pode usar qualquer outra, basta apenas apagar a pasta migratios e configurar uma string e atualizar o banco.
+
+## Como gerar as paginas para este app pelo cli do dotnet?
+```sh
+dotnet aspnet-codegenerator controller  \
+-name MarcarAulasController             \ # <- NOME_DO_CONTROLADOR
+-m MarcarAula                           \ # <- NOME_DO_MODELO
+-dc projeto.Data.projetoContext         \ # <- O CONTEXTO DE DADOS
+--relativeFolderPath Controllers        \ # <- O caminho da pasta de saída relativa para criar os arquivos.
+--useDefaultLayout                      \ # <- O layout padrão deve ser usado para as exibições.
+--referenceScriptLibraries              \ # <- Adiciona _ValidationScriptsPartial para Editar e Criar páginas.
+--databaseProvider sqlite               \ # <- USAR O BANCO
+```
+
+## Como fazer migração pelo dotnet cli?
+`dotnet ef migrations add InitialCreate`
+
+## Como atualiza o banco de dados pelo dotnet cli?
+`dotnet ef database update`
+
+
 
 
 # Histórico de versões

@@ -16,19 +16,21 @@ namespace projeto.Controllers
         }
 
         // GET: Aulas/Feed
-        public async Task<IActionResult> Index(string searchString) 
+        public async Task<IActionResult> Index(string searchString)
         {
             ViewData["CurrentFilter"] = searchString;
 
-            var professores = from p in _context.Professor
-                              select p;
+            var professores = await _context.Professor.ToListAsync();
 
             if (!string.IsNullOrEmpty(searchString))
             {
-                professores = professores.Where(s => s.Name.Contains(searchString) || s.Materias.ToString().Contains(searchString));
+                var lowerSearchString = searchString.ToLower();
+                professores = professores.Where(p => p.Name.ToLower().Contains(lowerSearchString) ||
+                                                     p.Materias.ToString().ToLower().Contains(lowerSearchString))
+                                         .ToList();
             }
 
-            return View(await professores.ToListAsync());
+            return View(professores);
         }
 
         // POST: Aulas/Marcar

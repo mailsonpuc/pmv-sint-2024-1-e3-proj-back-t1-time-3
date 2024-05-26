@@ -5,38 +5,31 @@
     var currentFilter = ViewData["CurrentFilter"] as string;
 }
 
-<h2>@ViewData["Title"]</h2>
+<div class="container">
+    <h2 class="text-center">@ViewData["Title"]</h2>
 
-<form asp-action="Index" method="get" class="mb-3">
-    <div class="form-group">
-        <input type="text" name="searchString" class="form-control" placeholder="Buscar por nome ou matéria" value="@currentFilter" />
-        <button type="submit" class="btn btn-primary mt-2">Buscar</button>
-    </div>
-</form>
+    <form asp-action="Index" method="get" class="mb-3">
+        <div class="form-group text-center">
+            <input type="text" name="searchString" class="form-control d-inline-block w-50" placeholder="Buscar por nome ou matéria" value="@currentFilter" />
+            <button type="submit" class="btn btn-primary mt-2">Buscar</button>
+        </div>
+    </form>
 
-<table class="table">
-    <thead>
-        <tr>
-            <th>Nome</th>
-            <th>Email</th>
-            <th>Matéria</th>
-            <th>Ações</th>
-        </tr>
-    </thead>
-    <tbody>
+    <div class="row justify-content-center">
         @foreach (var professor in Model)
         {
-            <tr>
-                <td>@professor.Name</td>
-                <td>@professor.Email</td>
-                <td>@professor.Materias</td>
-                <td>
-                    <form asp-action="Marcar" method="post">
-                        <input type="hidden" name="professorId" value="@professor.Id" />
-                        <button type="submit" class="btn btn-primary">Marcar Aula</button>
-                    </form>
-                </td>
-            </tr>
+            <div class="col-md-4 mb-3">
+                <div class="card">
+                    <div class="card-body text-center">
+                        <h5 class="card-title">@professor.Name</h5>
+                        <p class="card-text"><strong>Matéria:</strong> @professor.Materias</p>
+                        <form asp-action="Marcar" method="post">
+                            <input type="hidden" name="professorId" value="@professor.Id" />
+                            <button type="submit" class="btn btn-primary">Marcar Aula</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
         }
-    </tbody>
-</table>
+    </div>
+</div>

@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|solutionrelative:controllers\\feedalunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|c:\\repositorios\\puc\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\views\\feedaluno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|solutionrelative:views\\feedaluno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|c:\\repositorios\\puc\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\models\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|solutionrelative:models\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|c:\\repositorios\\puc\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|c:\\repositorios\\puc\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\models\\marcaraula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|solutionrelative:models\\marcaraula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|c:\\repositorios\\puc\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\views\\feedaluno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|solutionrelative:views\\feedaluno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,32 +26,51 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\repositorios\\puc\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\repositorios\\puc\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAvwBMAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T18:39:32.549Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\repositorios\\puc\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Views\\FeedAluno\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\FeedAluno\\Index.cshtml",
               "ToolTip": "C:\\repositorios\\puc\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Views\\FeedAluno\\Index.cshtml",
               "RelativeToolTip": "Views\\FeedAluno\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwBMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T18:37:53.947Z",
+              "WhenOpened": "2024-05-26T21:26:09.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MarcarAula.cs",
+              "DocumentMoniker": "C:\\repositorios\\puc\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Models\\MarcarAula.cs",
+              "RelativeDocumentMoniker": "Models\\MarcarAula.cs",
+              "ToolTip": "C:\\repositorios\\puc\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Models\\MarcarAula.cs",
+              "RelativeToolTip": "Models\\MarcarAula.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAkwBQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:41:06.985Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\repositorios\\puc\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Models\\Professor.cs",
+              "RelativeDocumentMoniker": "Models\\Professor.cs",
+              "ToolTip": "C:\\repositorios\\puc\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Models\\Professor.cs",
+              "RelativeToolTip": "Models\\Professor.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA7wBwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T21:30:50.484Z",
               "EditorCaption": ""
             },
             {
@@ -58,9 +81,9 @@
               "RelativeDocumentMoniker": "Controllers\\FeedAlunoController.cs",
               "ToolTip": "C:\\repositorios\\puc\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Controllers\\FeedAlunoController.cs",
               "RelativeToolTip": "Controllers\\FeedAlunoController.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAA1wCIAAAASAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAArwCMAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T17:51:47.264Z",
+              "WhenOpened": "2024-05-26T21:27:07.486Z",
               "EditorCaption": ""
             }
           ]

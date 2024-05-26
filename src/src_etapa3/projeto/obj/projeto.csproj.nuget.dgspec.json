@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/masv/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/projeto.csproj": {}
+    "C:\\repositorios\\puc\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\projeto.csproj": {}
   },
   "projects": {
-    "/home/masv/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/projeto.csproj": {
+    "C:\\repositorios\\puc\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\projeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/masv/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/projeto.csproj",
+        "projectUniqueName": "C:\\repositorios\\puc\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\projeto.csproj",
         "projectName": "projeto",
-        "projectPath": "/home/masv/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/projeto.csproj",
-        "packagesPath": "/home/masv/.nuget/packages/",
-        "outputPath": "/home/masv/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/obj/",
+        "projectPath": "C:\\repositorios\\puc\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\projeto.csproj",
+        "packagesPath": "C:\\Users\\nicko\\.nuget\\packages\\",
+        "outputPath": "C:\\repositorios\\puc\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/masv/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\nicko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -94,7 +101,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

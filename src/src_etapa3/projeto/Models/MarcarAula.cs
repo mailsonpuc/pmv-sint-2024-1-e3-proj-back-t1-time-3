@@ -18,7 +18,7 @@ namespace projeto.Models
         [ForeignKey("AlunoId")]
         public Aluno Aluno { get; set; }
 
-        public Conteudo Conteudo { get; set; }
+        public string Conteudo { get; set; }
 
         [Display(Name = "Confirmação" )]
         public bool Confirmacao { get; set; }

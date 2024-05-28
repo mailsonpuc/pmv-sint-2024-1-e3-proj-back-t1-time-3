@@ -1,8 +1,10 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Claims;
 using System.Threading.Tasks;
 using BCrypt.Net;
+using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -24,6 +26,51 @@ namespace projeto.Controllers
         public async Task<IActionResult> Index()
         {
             return View(await _context.Aluno.ToListAsync());
+        }
+
+        
+        public IActionResult Login()
+        {
+    
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Login(Aluno aluno)
+        {
+            var dados = await _context.Aluno.FirstOrDefaultAsync(a => a.Email == aluno.Email);
+
+            if (dados == null || !BCrypt.Net.BCrypt.Verify(aluno.Senha, dados.Senha))
+            {
+                ViewBag.Message = "Usuário ou senha inválidos";
+                return View();
+            }
+
+            var claims = new List<Claim>
+            {
+                new Claim(ClaimTypes.Name, dados.Name),
+                new Claim(ClaimTypes.NameIdentifier, dados.Email)
+            };
+
+            var alunoIdentity = new ClaimsIdentity(claims, "login");
+            ClaimsPrincipal principal = new ClaimsPrincipal(alunoIdentity);
+
+            var props = new AuthenticationProperties
+            {
+                AllowRefresh = true,
+                ExpiresUtc = DateTime.UtcNow.ToLocalTime().AddHours(8),
+                IsPersistent = true
+            };
+
+            await HttpContext.SignInAsync(principal, props);
+
+            return Redirect("/");
+        }
+
+        public async Task<IActionResult> Logout() 
+        {
+            await HttpContext.SignOutAsync();
+            return RedirectToAction("Login", "Alunos");
         }
 
         // GET: Alunos/Details/5

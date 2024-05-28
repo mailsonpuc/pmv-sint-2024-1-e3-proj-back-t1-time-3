@@ -2,6 +2,7 @@ create database EadAsync;
 use EadAsync;
 
 
+
 -- EadAsync.disciplina definition
 
 CREATE TABLE `disciplina` (
@@ -27,10 +28,6 @@ CREATE TABLE `professor` (
 
 
 
-
-
-
-
 -- EadAsync.horarios definition
 
 CREATE TABLE `horarios` (
@@ -41,6 +38,17 @@ CREATE TABLE `horarios` (
   CONSTRAINT `horarios_professor_FK` FOREIGN KEY (`cpf`) REFERENCES `professor` (`cpf`) ON DELETE CASCADE ON UPDATE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
+
+
+-- EadAsync.aluno definition
+
+CREATE TABLE `aluno` (
+  `id` int NOT NULL,
+  `nome` varchar(100) NOT NULL,
+  `email` varchar(100) NOT NULL,
+  `senha` varchar(100) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
 
 
@@ -60,15 +68,3 @@ CREATE TABLE `marcar_aula` (
   CONSTRAINT `marcar_aula_professor_FK` FOREIGN KEY (`cpf`) REFERENCES `professor` (`cpf`) ON DELETE CASCADE ON UPDATE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
-
-
-
--- EadAsync.aluno definition
-
-CREATE TABLE `aluno` (
-  `id` int NOT NULL,
-  `nome` varchar(100) NOT NULL,
-  `email` varchar(100) NOT NULL,
-  `senha` varchar(100) NOT NULL,
-  PRIMARY KEY (`id`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;

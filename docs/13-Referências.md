@@ -25,3 +25,5 @@ https://www.w3schools.com/sql/default.asp)
 > - [Gerador de dados de Pessoas](https://www.4devs.com.br/gerador_de_pessoas)
 
 > - [Gerador de fotos de Pessoas](https://thispersondoesnotexist.com/)
+> - [Gerador de cpf](https://www.4devs.com.br/gerador_de_cpf)
+

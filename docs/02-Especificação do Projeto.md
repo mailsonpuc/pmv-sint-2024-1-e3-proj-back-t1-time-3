@@ -175,7 +175,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Diagrama de Casos de Uso
 
-![Diagrama de Casos de Uso](img/diagrama-de-casos.png)
+![Diagrama de Casos de Uso](img/casos_de_uso_v2.png)
 
 > **Links Úteis**:
 > - [Criando Casos de Uso](https://www.ibm.com/docs/pt-br/elm/6.0?topic=requirements-creating-use-cases)

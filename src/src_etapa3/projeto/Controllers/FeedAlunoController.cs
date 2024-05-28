@@ -34,17 +34,24 @@ namespace projeto.Controllers
         }
 
         // POST: Aulas/Marcar
-        [HttpPost]
+        [HttpPost("Marcar")]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Marcar(int professorId)
+        public async Task<IActionResult> Marcar(int professorId, string conteudo)
         {
-            
-            var alunoId = 1; 
+            if (string.IsNullOrEmpty(conteudo))
+            {
+                // Se o conteúdo estiver vazio, redirecione de volta para a página de índice.
+                // Você pode adicionar uma mensagem de erro aqui, se desejar.
+                return RedirectToAction(nameof(Index));
+            }
+
+            var alunoId = 1;
 
             var marcarAula = new MarcarAula
             {
                 ProfessorId = professorId,
                 AlunoId = alunoId,
+                Conteudo = conteudo,
                 Confirmacao = false
             };
 

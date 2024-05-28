@@ -1,10 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\bin\\Debug",
-    "\\Views",
-    "\\Views\\Alunos"
+    "\\Controllers",
+    "\\Models",
+    "\\Views\\FeedAluno"
   ],
-  "SelectedNode": "\\Views\\Alunos\\Create.cshtml",
+  "SelectedNode": "\\Models\\MarcarAula.cs",
   "PreviewInSolutionExplorer": false
 }

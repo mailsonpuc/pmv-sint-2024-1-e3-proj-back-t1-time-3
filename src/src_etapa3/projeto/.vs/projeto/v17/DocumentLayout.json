@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\nmendonca\\Desktop\\Repositorio\\PUC\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|c:\\users\\nmendonca\\desktop\\repositorio\\puc\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|c:\\users\\nmendonca\\desktop\\repositorio\\puc\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\views\\alunos\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|solutionrelative:views\\alunos\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|c:\\users\\nmendonca\\desktop\\repositorio\\puc\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|solutionrelative:controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|c:\\users\\nmendonca\\desktop\\repositorio\\puc\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|c:\\users\\nmendonca\\desktop\\repositorio\\puc\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\controllers\\feedalunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|solutionrelative:controllers\\feedalunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|c:\\users\\nmendonca\\desktop\\repositorio\\puc\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\views\\alunos\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -26,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,19 +43,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\nmendonca\\Desktop\\Repositorio\\PUC\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Views\\Alunos\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "Views\\Alunos\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\nmendonca\\Desktop\\Repositorio\\PUC\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Views\\Alunos\\AccessDenied.cshtml",
+              "RelativeToolTip": "Views\\Alunos\\AccessDenied.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T18:51:22.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FeedAlunoController.cs",
+              "DocumentMoniker": "C:\\Users\\nmendonca\\Desktop\\Repositorio\\PUC\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Controllers\\FeedAlunoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FeedAlunoController.cs",
+              "ToolTip": "C:\\Users\\nmendonca\\Desktop\\Repositorio\\PUC\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Controllers\\FeedAlunoController.cs",
+              "RelativeToolTip": "Controllers\\FeedAlunoController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAQwCgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T17:59:01.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\nmendonca\\Desktop\\Repositorio\\PUC\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\nmendonca\\Desktop\\Repositorio\\PUC\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAACYAAAAAAAAAAAAYwDQAAAAZAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAYwDQAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-28T16:49:21.921Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\nmendonca\\Desktop\\Repositorio\\PUC\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -60,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\nmendonca\\Desktop\\Repositorio\\PUC\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Views\\Alunos\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Alunos\\Login.cshtml",
@@ -68,18 +102,17 @@
               "RelativeToolTip": "Views\\Alunos\\Login.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-28T15:01:55.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-28T15:01:55.112Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AlunosController.cs",
               "DocumentMoniker": "C:\\Users\\nmendonca\\Desktop\\Repositorio\\PUC\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Controllers\\AlunosController.cs",
               "RelativeDocumentMoniker": "Controllers\\AlunosController.cs",
               "ToolTip": "C:\\Users\\nmendonca\\Desktop\\Repositorio\\PUC\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Controllers\\AlunosController.cs",
               "RelativeToolTip": "Controllers\\AlunosController.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAkwEUAAAAyAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAewBkAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T15:00:44.952Z",
               "EditorCaption": ""

@@ -1,12 +1,7 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Security.Claims;
-using System.Threading.Tasks;
-using BCrypt.Net;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using projeto.Data;
 using projeto.Models;
@@ -28,10 +23,15 @@ namespace projeto.Controllers
             return View(await _context.Aluno.ToListAsync());
         }
 
+        public IActionResult AccessDenied()
+        {
+            return View();
+        }
+
         
         public IActionResult Login()
         {
-    
+
             return View();
         }
 
@@ -49,7 +49,8 @@ namespace projeto.Controllers
             var claims = new List<Claim>
             {
                 new Claim(ClaimTypes.Name, dados.Name),
-                new Claim(ClaimTypes.NameIdentifier, dados.Email)
+                new Claim(ClaimTypes.NameIdentifier, dados.Id.ToString()),
+                new Claim(ClaimTypes.Email, dados.Email)
             };
 
             var alunoIdentity = new ClaimsIdentity(claims, "login");

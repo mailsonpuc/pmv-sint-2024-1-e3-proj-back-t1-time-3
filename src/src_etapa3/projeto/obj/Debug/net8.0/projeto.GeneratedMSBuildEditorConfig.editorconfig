@@ -26,6 +26,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\Users\nmendonca\Desktop\Repositorio\PUC\pmv-sint-2024-1-e3-proj-back-t1-time-3\src\src_etapa3\projeto
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/nmendonca/Desktop/Repositorio/PUC/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Alunos/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXEFjY2Vzc0RlbmllZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/nmendonca/Desktop/Repositorio/PUC/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Alunos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

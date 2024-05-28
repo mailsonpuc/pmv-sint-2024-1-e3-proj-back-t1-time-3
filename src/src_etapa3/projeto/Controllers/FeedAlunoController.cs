@@ -2,10 +2,12 @@
 using Microsoft.EntityFrameworkCore;
 using projeto.Models;
 using projeto.Data;
+using Microsoft.AspNetCore.Authorization;
+using System.Security.Claims;
 
 namespace projeto.Controllers
 {
-
+    [Authorize]
     public class FeedAlunoController : Controller
     {
         private readonly projetoContext _context;
@@ -40,12 +42,20 @@ namespace projeto.Controllers
         {
             if (string.IsNullOrEmpty(conteudo))
             {
-                // Se o conteúdo estiver vazio, redirecione de volta para a página de índice.
-                // Você pode adicionar uma mensagem de erro aqui, se desejar.
                 return RedirectToAction(nameof(Index));
             }
 
-            var alunoId = 1;
+            var alunoIdClaim = User.FindFirst(ClaimTypes.NameIdentifier);
+
+            if (alunoIdClaim == null)
+            {
+                return RedirectToAction("Login", "Alunos");
+            }
+
+            if (!int.TryParse(alunoIdClaim.Value, out int alunoId))
+            {
+                return RedirectToAction("Login", "Alunos");
+            }
 
             var marcarAula = new MarcarAula
             {

@@ -21,6 +21,7 @@ CREATE TABLE `professor` (
   `senha` varchar(100) NOT NULL,
   `cod_disciplina` int NOT NULL,
   `horarios` varchar(100) DEFAULT NULL,
+  UNIQUE (`cpf`),
   PRIMARY KEY (`cpf`),
   KEY `professor_disciplina_FK` (`cod_disciplina`),
   CONSTRAINT `professor_disciplina_FK` FOREIGN KEY (`cod_disciplina`) REFERENCES `disciplina` (`codigo`) ON DELETE CASCADE ON UPDATE CASCADE

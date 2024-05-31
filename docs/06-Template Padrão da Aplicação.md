@@ -4,6 +4,32 @@
 
 Layout padrão da aplicação que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
 
+# As paletas de cores utilizadas na aplicação são. 
+| cores | codigo   |
+| ---   | ---      |
+| branco| `#F8F9FA`|
+| azul  | `#0D6EFD`|
+| verde | `#198754`|
+| preto | `#000000`|
+| cinza | `#6C757D`|
+
+## tipografia
+`Helvetica`, `sans-serif`.
+
+## logo
+Cores da logo `#ccff33`, `#809fff`, `#002699`,`#6C757D`.
+
+<img src="https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2024-1-e3-proj-back-t1-time-3/blob/main/docs/img/logo.png?raw=true" >
+
+## Layout do site versão desktop.
+
+<img src="img/layout_home.png" >
+
+## Layout do site versão mobile.
+
+<img src="img/layou_mobile.jpg" width="200px" >
+
+
 > **Links Úteis**:
 >
 > - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)

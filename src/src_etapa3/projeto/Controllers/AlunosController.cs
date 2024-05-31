@@ -11,10 +11,12 @@ namespace projeto.Controllers
     public class AlunosController : Controller
     {
         private readonly projetoContext _context;
+        private readonly IEmailSender _emailSender;
 
-        public AlunosController(projetoContext context)
+        public AlunosController(projetoContext context, IEmailSender emailSender)
         {
             _context = context;
+            _emailSender = emailSender; 
         }
 
         // GET: Alunos
@@ -205,5 +207,98 @@ namespace projeto.Controllers
         {
             return _context.Aluno.Any(e => e.Id == id);
         }
+
+        // --- Lógica de recuperação de senha ---
+
+        //GET
+        public IActionResult RecuperarSenha()
+        {
+            return View();
+        }
+
+        //POST
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> RecuperarSenha(string email, string novaSenha, string confirmarNovaSenha)
+        {
+            if (string.IsNullOrEmpty(email))
+            {
+                ViewBag.Message = "Por favor, insira um endereço de e-mail.";
+                return View();
+            }
+
+           
+            var aluno = await _context.Aluno.FirstOrDefaultAsync(a => a.Email == email);
+            if (aluno == null)
+            {
+                ViewBag.Message = $"O e-mail '{email}' não existe no banco de dados.";
+                return View();
+            }
+
+  
+            if (novaSenha != confirmarNovaSenha)
+            {
+                ViewBag.Message = "A nova senha e a confirmação não coincidem.";
+                return View();
+            }
+
+            // Atualizar a senha no banco de dados
+            aluno.Senha = BCrypt.Net.BCrypt.HashPassword(novaSenha);
+            _context.Update(aluno);
+            await _context.SaveChangesAsync();
+
+            ViewBag.Message = $"Redefinição de senha bem-sucedida para '{email}'.";
+
+            return View();
+        }
+
+        // GET
+        [HttpGet]
+        public IActionResult ConfirmarEmail()
+        {
+            return View();
+        }
+
+        // POST
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> ConfirmarEmail(string email)
+        {
+            if (string.IsNullOrEmpty(email))
+            {
+                ViewBag.Message = "Por favor, insira um endereço de e-mail.";
+                return View();
+            }
+
+
+            var aluno = await _context.Aluno.FirstOrDefaultAsync(a => a.Email == email);
+            if (aluno == null)
+            {
+                ViewBag.Message = $"O e-mail '{email}' não existe no banco de dados.";
+                return View();
+            }
+
+            // Enviar e-mail com o link de redefinição de senha (É NECESSÁRIO INSERIR UM EMAIL REAL PARA TESTE)
+            try
+            {
+
+                string resetUrl = Url.Action("RecuperarSenha", "Alunos", new { email = email }, Request.Scheme);
+
+
+                string subject = "Recuperação de Senha";
+                string message = $"Clique no link para redefinir sua senha: {resetUrl}";
+
+                await _emailSender.SendEmailAsync(email, subject, message);
+
+                ViewBag.Message = $"Um e-mail foi enviado para '{email}'.";
+            }
+            catch (Exception ex)
+            {
+                ViewBag.Message = $"Erro ao enviar o e-mail: {ex.Message}";
+            }
+
+            return View();
+        }
+
     }
 }

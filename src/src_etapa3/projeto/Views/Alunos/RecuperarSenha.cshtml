@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Recuperar Senha";
+}
+
+<h1>Recuperar Senha</h1>
+
+<form method="post">
+    <div class="form-group">
+        <label for="email">Endereço de e-mail:</label>
+        <input type="email" class="form-control" id="email" name="email" required>
+    </div>
+    <div class="form-group">
+        <label for="novaSenha">Nova Senha:</label>
+        <input type="password" class="form-control" id="novaSenha" name="novaSenha" required>
+    </div>
+    <div class="form-group">
+        <label for="confirmarNovaSenha">Confirmar Nova Senha:</label>
+        <input type="password" class="form-control" id="confirmarNovaSenha" name="confirmarNovaSenha" required>
+    </div>
+    <button type="submit" class="btn btn-primary">Confirmar Nova Senha</button>
+</form>
+
+@if (!string.IsNullOrEmpty(ViewBag.Message))
+{
+    <div class="alert alert-info mt-3" role="alert">
+        @ViewBag.Message
+    </div>
+}

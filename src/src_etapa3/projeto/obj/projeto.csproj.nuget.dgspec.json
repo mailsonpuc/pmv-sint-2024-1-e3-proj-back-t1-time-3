@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/var/tmp/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/projeto.csproj": {}
+    "D:\\ODE\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\projeto.csproj": {}
   },
   "projects": {
-    "/var/tmp/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/projeto.csproj": {
+    "D:\\ODE\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\projeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/var/tmp/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/projeto.csproj",
+        "projectUniqueName": "D:\\ODE\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\projeto.csproj",
         "projectName": "projeto",
-        "projectPath": "/var/tmp/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/projeto.csproj",
-        "packagesPath": "/home/masv/.nuget/packages/",
-        "outputPath": "/var/tmp/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/obj/",
+        "projectPath": "D:\\ODE\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\projeto.csproj",
+        "packagesPath": "C:\\Users\\M0\\.nuget\\packages\\",
+        "outputPath": "D:\\ODE\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/masv/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\M0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -41,6 +48,10 @@
             "BCrypt.Net-Next": {
               "target": "Package",
               "version": "[4.0.3, )"
+            },
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.6.0, )"
             },
             "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
@@ -70,6 +81,10 @@
               "target": "Package",
               "version": "[8.0.2, )"
             },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
               "version": "[8.0.2, )"
@@ -94,7 +109,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.103/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

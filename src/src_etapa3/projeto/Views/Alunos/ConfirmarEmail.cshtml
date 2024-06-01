@@ -1,0 +1,21 @@
+﻿@model string
+@{
+    ViewData["Title"] = "Confirmar Email";
+}
+
+<h1>Enviar Email</h1>
+
+@if (!string.IsNullOrEmpty(ViewBag.Message))
+{
+    <p>@ViewBag.Message</p>
+}
+else
+{
+    <form method="post">
+        <div class="form-group">
+            <label for="email">Email Address:</label>
+            <input type="email" class="form-control" id="email" name="email" required>
+        </div>
+        <button type="submit" class="btn btn-primary">Enviar Email</button>
+    </form>
+}

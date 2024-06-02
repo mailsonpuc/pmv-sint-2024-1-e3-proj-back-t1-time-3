@@ -17,107 +17,135 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = projeto
 build_property.RootNamespace = projeto
-build_property.ProjectDir = C:\Users\nmendonca\Desktop\Repositorio\PUC\pmv-sint-2024-1-e3-proj-back-t1-time-3\src\src_etapa3\projeto\
+build_property.ProjectDir = C:\Users\Casa\Documents\GitHub\Nova pasta\pmv-sint-2024-1-e3-proj-back-t1-time-3\src\src_etapa3\projeto\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = C:\Users\nmendonca\Desktop\Repositorio\PUC\pmv-sint-2024-1-e3-proj-back-t1-time-3\src\src_etapa3\projeto
+build_property.MSBuildProjectDirectory = C:\Users\Casa\Documents\GitHub\Nova pasta\pmv-sint-2024-1-e3-proj-back-t1-time-3\src\src_etapa3\projeto
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/nmendonca/Desktop/Repositorio/PUC/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Alunos/Create.cshtml]
+[C:/Users/Casa/Documents/GitHub/Nova pasta/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Alunos/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXEFjY2Vzc0RlbmllZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Casa/Documents/GitHub/Nova pasta/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Alunos/ConfirmarEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXENvbmZpcm1hckVtYWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Casa/Documents/GitHub/Nova pasta/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Alunos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nmendonca/Desktop/Repositorio/PUC/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Alunos/Delete.cshtml]
+[C:/Users/Casa/Documents/GitHub/Nova pasta/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Alunos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nmendonca/Desktop/Repositorio/PUC/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Alunos/Details.cshtml]
+[C:/Users/Casa/Documents/GitHub/Nova pasta/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Alunos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nmendonca/Desktop/Repositorio/PUC/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Alunos/Edit.cshtml]
+[C:/Users/Casa/Documents/GitHub/Nova pasta/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Alunos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nmendonca/Desktop/Repositorio/PUC/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Alunos/Index.cshtml]
+[C:/Users/Casa/Documents/GitHub/Nova pasta/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Alunos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nmendonca/Desktop/Repositorio/PUC/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/FeedAluno/Index.cshtml]
+[C:/Users/Casa/Documents/GitHub/Nova pasta/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Alunos/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Casa/Documents/GitHub/Nova pasta/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Alunos/RecuperarSenha.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bm9zXFJlY3VwZXJhclNlbmhhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Casa/Documents/GitHub/Nova pasta/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/FeedAluno/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVlZEFsdW5vXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nmendonca/Desktop/Repositorio/PUC/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/FeedProfessor/Index.cshtml]
+[C:/Users/Casa/Documents/GitHub/Nova pasta/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/FeedProfessor/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmVlZFByb2Zlc3NvclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nmendonca/Desktop/Repositorio/PUC/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Home/Index.cshtml]
+[C:/Users/Casa/Documents/GitHub/Nova pasta/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nmendonca/Desktop/Repositorio/PUC/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Home/Privacy.cshtml]
+[C:/Users/Casa/Documents/GitHub/Nova pasta/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nmendonca/Desktop/Repositorio/PUC/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/MarcarAulas/Create.cshtml]
+[C:/Users/Casa/Documents/GitHub/Nova pasta/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/MarcarAulas/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyY2FyQXVsYXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nmendonca/Desktop/Repositorio/PUC/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/MarcarAulas/Delete.cshtml]
+[C:/Users/Casa/Documents/GitHub/Nova pasta/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/MarcarAulas/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyY2FyQXVsYXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nmendonca/Desktop/Repositorio/PUC/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/MarcarAulas/Details.cshtml]
+[C:/Users/Casa/Documents/GitHub/Nova pasta/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/MarcarAulas/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyY2FyQXVsYXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nmendonca/Desktop/Repositorio/PUC/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/MarcarAulas/Edit.cshtml]
+[C:/Users/Casa/Documents/GitHub/Nova pasta/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/MarcarAulas/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyY2FyQXVsYXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nmendonca/Desktop/Repositorio/PUC/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/MarcarAulas/Index.cshtml]
+[C:/Users/Casa/Documents/GitHub/Nova pasta/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/MarcarAulas/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyY2FyQXVsYXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nmendonca/Desktop/Repositorio/PUC/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Profesors/Create.cshtml]
+[C:/Users/Casa/Documents/GitHub/Nova pasta/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Profesors/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzb3JzXEFjY2Vzc0RlbmllZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Casa/Documents/GitHub/Nova pasta/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Profesors/ConfirmarEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzb3JzXENvbmZpcm1hckVtYWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Casa/Documents/GitHub/Nova pasta/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Profesors/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzb3JzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nmendonca/Desktop/Repositorio/PUC/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Profesors/Delete.cshtml]
+[C:/Users/Casa/Documents/GitHub/Nova pasta/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Profesors/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzb3JzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nmendonca/Desktop/Repositorio/PUC/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Profesors/Details.cshtml]
+[C:/Users/Casa/Documents/GitHub/Nova pasta/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Profesors/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzb3JzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nmendonca/Desktop/Repositorio/PUC/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Profesors/Edit.cshtml]
+[C:/Users/Casa/Documents/GitHub/Nova pasta/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Profesors/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzb3JzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nmendonca/Desktop/Repositorio/PUC/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Profesors/Index.cshtml]
+[C:/Users/Casa/Documents/GitHub/Nova pasta/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Profesors/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzb3JzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nmendonca/Desktop/Repositorio/PUC/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Shared/Error.cshtml]
+[C:/Users/Casa/Documents/GitHub/Nova pasta/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Profesors/Perfil.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZmVzb3JzXFBlcmZpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Casa/Documents/GitHub/Nova pasta/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nmendonca/Desktop/Repositorio/PUC/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Casa/Documents/GitHub/Nova pasta/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nmendonca/Desktop/Repositorio/PUC/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/_ViewImports.cshtml]
+[C:/Users/Casa/Documents/GitHub/Nova pasta/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nmendonca/Desktop/Repositorio/PUC/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/_ViewStart.cshtml]
+[C:/Users/Casa/Documents/GitHub/Nova pasta/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nmendonca/Desktop/Repositorio/PUC/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Shared/_Layout.cshtml]
+[C:/Users/Casa/Documents/GitHub/Nova pasta/pmv-sint-2024-1-e3-proj-back-t1-time-3/src/src_etapa3/projeto/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-f6rfht341o

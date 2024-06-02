@@ -1,0 +1,67 @@
+@model projeto.Models.Professor
+
+@{
+    ViewData["Title"] = "Perfil do Professor";
+}
+
+<style>
+    th, td, tr, thead {
+        border: 1px solid;
+        border-collapse: collapse;
+    }
+
+    table {
+        margin: auto;
+        width: 60%;
+        border: 3px solid #616f85;
+        padding: 10px;
+    }
+</style>
+
+<div style="display: flex; align-items: center;">
+    <img width="300px" src='https://github.com/mailsonpuc/mailsonpuc.github.io/blob/main/undraw_Male_avatar_g98d.png?raw=true' />
+
+    <p style="margin-left: 10px;">
+        @if (Model != null)
+        {
+            <strong>Nome Completo:</strong> @Model.Name
+        }
+    </p>
+</div>
+
+@if (Model != null)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Nome</th>
+                <th>Email</th>
+                <th>Senha</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>@Model.Name</td>
+                <td>@Model.Email</td>
+                <td>@Model.Senha</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@Model.Id">Editar</a> |
+                    <a asp-action="Details" asp-route-id="@Model.Id">Detalhes</a> |
+                    <a asp-action="Delete" asp-route-id="@Model.Id">Excluir</a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+}
+
+<div class="col">
+    <table>
+        <tr>
+            <th>Configuracoes do Sistema</th>
+        </tr>
+        <tr>
+            <td><a asp-action="">Configuracoes</a></td>
+        </tr>
+    </table>
+</div>

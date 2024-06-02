@@ -1,12 +1,9 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using projeto.Data;
 using projeto.Models;
+using projeto.Data;
+using Microsoft.AspNetCore.Authorization;
+using System.Security.Claims;
 
 namespace projeto.Controllers
 {
@@ -19,13 +16,11 @@ namespace projeto.Controllers
             _context = context;
         }
 
-        // GET: Profesors
         public async Task<IActionResult> Index()
         {
             return View(await _context.Professor.ToListAsync());
         }
 
-        // GET: Profesors/Details/5
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -44,22 +39,21 @@ namespace projeto.Controllers
         }
 
         // GET: Profesors/Create
+        [Authorize]
         public IActionResult Create()
         {
             return View();
         }
 
         // POST: Profesors/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
+        [Authorize]
         [ValidateAntiForgeryToken]
-       
         public async Task<IActionResult> Create([Bind("Id,Cpf,Name,Email,Senha,Materias")] Professor professor)
         {
             if (ModelState.IsValid)
             {
-                 professor.Senha = BCrypt.Net.BCrypt.HashPassword(professor.Senha);
+                professor.Senha = BCrypt.Net.BCrypt.HashPassword(professor.Senha);
                 _context.Add(professor);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
@@ -68,6 +62,7 @@ namespace projeto.Controllers
         }
 
         // GET: Profesors/Edit/5
+        [Authorize]
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -84,9 +79,8 @@ namespace projeto.Controllers
         }
 
         // POST: Profesors/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
+        [Authorize]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("Id,Cpf,Name,Email,Senha,Materias")] Professor professor)
         {
@@ -120,6 +114,7 @@ namespace projeto.Controllers
         }
 
         // GET: Profesors/Delete/5
+        [Authorize]
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -139,6 +134,7 @@ namespace projeto.Controllers
 
         // POST: Profesors/Delete/5
         [HttpPost, ActionName("Delete")]
+        [Authorize]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
@@ -155,6 +151,32 @@ namespace projeto.Controllers
         private bool ProfessorExists(int id)
         {
             return _context.Professor.Any(e => e.Id == id);
+        }
+
+        // GET: Profesors/Perfil
+        [Authorize]
+        public async Task<IActionResult> Perfil()
+        {
+            var professorIdClaim = User.FindFirst(ClaimTypes.NameIdentifier);
+
+            if (professorIdClaim == null)
+            {
+                return RedirectToAction("Login", "Account");
+            }
+
+            if (!int.TryParse(professorIdClaim.Value, out int professorId))
+            {
+                return RedirectToAction("Login", "Account");
+            }
+
+            var professor = await _context.Professor
+                .FirstOrDefaultAsync(m => m.Id == professorId);
+            if (professor == null)
+            {
+                return NotFound();
+            }
+
+            return View(professor);
         }
     }
 }

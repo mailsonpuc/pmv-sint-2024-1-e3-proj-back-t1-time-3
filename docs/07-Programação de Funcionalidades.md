@@ -44,3 +44,8 @@ parte do aluno.
 <img src="img/Screenshot_10.png">
 
 <img src="img/Screenshot_11.png">
+
+# Funcionalidade de Recuperar Senha
+<img src="img/marco-imgs/recSenha1.png">
+
+<img src="img/marco-imgs/recSenha2png.png">

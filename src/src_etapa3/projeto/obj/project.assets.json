@@ -8507,19 +8507,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\M0\\.nuget\\packages\\": {}
+    "C:\\Users\\arthu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ODE\\Sint-2024-e3-proj-back-t1-fork-\\src\\src_etapa3\\projeto\\projeto.csproj",
+      "projectUniqueName": "C:\\Users\\arthu\\OneDrive\\Documentos\\GitHub\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\projeto.csproj",
       "projectName": "projeto",
-      "projectPath": "D:\\ODE\\Sint-2024-e3-proj-back-t1-fork-\\src\\src_etapa3\\projeto\\projeto.csproj",
-      "packagesPath": "C:\\Users\\M0\\.nuget\\packages\\",
-      "outputPath": "D:\\ODE\\Sint-2024-e3-proj-back-t1-fork-\\src\\src_etapa3\\projeto\\obj\\",
+      "projectPath": "C:\\Users\\arthu\\OneDrive\\Documentos\\GitHub\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\projeto.csproj",
+      "packagesPath": "C:\\Users\\arthu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\arthu\\OneDrive\\Documentos\\GitHub\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\M0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\arthu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8614,7 +8614,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

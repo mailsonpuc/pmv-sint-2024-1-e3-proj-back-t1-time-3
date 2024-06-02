@@ -23,9 +23,6 @@ body {
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <img src="https://github.com/ICEI-PUC-Minas-PMV-SInt/pmv-sint-2024-1-e3-proj-back-t1-time-3/blob/main/docs/img/logo.png?raw=true" width="100px">
             <div class="container-fluid">
-                <!---
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">projeto</a>
-                --->
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -35,7 +32,10 @@ body {
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
-            
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Profesors" asp-action="Perfil">Perfil Professor</a>
+                        </li>
+
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Profesors" asp-action="">Professor</a>
                         </li>

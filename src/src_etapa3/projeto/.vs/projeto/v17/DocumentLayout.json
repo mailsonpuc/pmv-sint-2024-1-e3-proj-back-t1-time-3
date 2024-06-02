@@ -1,46 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ODE\\Sint-2024-e3-proj-back-t1-fork-\\src\\src_etapa3\\projeto\\",
+  "WorkspaceRootPath": "C:\\Users\\arthu\\OneDrive\\Documentos\\GitHub\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|d:\\ode\\sint-2024-e3-proj-back-t1-fork-\\src\\src_etapa3\\projeto\\views\\alunos\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|solutionrelative:views\\alunos\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|c:\\users\\arthu\\onedrive\\documentos\\github\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\views\\profesors\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|solutionrelative:views\\profesors\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|d:\\ode\\sint-2024-e3-proj-back-t1-fork-\\src\\src_etapa3\\projeto\\views\\alunos\\confirmaremail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|solutionrelative:views\\alunos\\confirmaremail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|d:\\ode\\sint-2024-e3-proj-back-t1-fork-\\src\\src_etapa3\\projeto\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|solutionrelative:controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|d:\\ode\\sint-2024-e3-proj-back-t1-fork-\\src\\src_etapa3\\projeto\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|c:\\users\\arthu\\onedrive\\documentos\\github\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|d:\\ode\\sint-2024-e3-proj-back-t1-fork-\\src\\src_etapa3\\projeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|c:\\users\\arthu\\onedrive\\documentos\\github\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\controllers\\profesorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|solutionrelative:controllers\\profesorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|d:\\ode\\sint-2024-e3-proj-back-t1-fork-\\src\\src_etapa3\\projeto\\data\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|solutionrelative:data\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|d:\\ode\\sint-2024-e3-proj-back-t1-fork-\\src\\src_etapa3\\projeto\\views\\alunos\\recuperarsenha.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|c:\\users\\arthu\\onedrive\\documentos\\github\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\views\\alunos\\recuperarsenha.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|solutionrelative:views\\alunos\\recuperarsenha.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|d:\\ode\\sint-2024-e3-proj-back-t1-fork-\\src\\src_etapa3\\projeto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|c:\\users\\arthu\\onedrive\\documentos\\github\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\views\\profesors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|solutionrelative:views\\profesors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|d:\\ode\\sint-2024-e3-proj-back-t1-fork-\\src\\src_etapa3\\projeto\\views\\alunos\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|c:\\users\\arthu\\onedrive\\documentos\\github\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\views\\alunos\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|solutionrelative:views\\alunos\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|c:\\users\\arthu\\onedrive\\documentos\\github\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\controllers\\feedalunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|solutionrelative:controllers\\feedalunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|c:\\users\\arthu\\onedrive\\documentos\\github\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\views\\alunos\\confirmaremail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|solutionrelative:views\\alunos\\confirmaremail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|c:\\users\\arthu\\onedrive\\documentos\\github\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\views\\alunos\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|solutionrelative:views\\alunos\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|d:\\ode\\sint-2024-e3-proj-back-t1-fork-\\src\\src_etapa3\\projeto\\controllers\\feedalunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|solutionrelative:controllers\\feedalunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|c:\\users\\arthu\\onedrive\\documentos\\github\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|solutionrelative:controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|c:\\users\\arthu\\onedrive\\documentos\\github\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|c:\\users\\arthu\\onedrive\\documentos\\github\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\data\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|solutionrelative:data\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|c:\\users\\arthu\\onedrive\\documentos\\github\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9D79B93-FE35-4963-A1EA-879A03AEF20D}|projeto.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,19 +62,64 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\arthu\\OneDrive\\Documentos\\GitHub\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Views\\Profesors\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Profesors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\arthu\\OneDrive\\Documentos\\GitHub\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Views\\Profesors\\Index.cshtml",
+              "RelativeToolTip": "Views\\Profesors\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T14:40:33.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Perfil.cshtml",
+              "DocumentMoniker": "C:\\Users\\arthu\\OneDrive\\Documentos\\GitHub\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Views\\Profesors\\Perfil.cshtml",
+              "RelativeDocumentMoniker": "Views\\Profesors\\Perfil.cshtml",
+              "ToolTip": "C:\\Users\\arthu\\OneDrive\\Documentos\\GitHub\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Views\\Profesors\\Perfil.cshtml",
+              "RelativeToolTip": "Views\\Profesors\\Perfil.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T14:17:03.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProfesorsController.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\OneDrive\\Documentos\\GitHub\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Controllers\\ProfesorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProfesorsController.cs",
+              "ToolTip": "C:\\Users\\arthu\\OneDrive\\Documentos\\GitHub\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Controllers\\ProfesorsController.cs",
+              "RelativeToolTip": "Controllers\\ProfesorsController.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAswCkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T14:06:11.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "RecuperarSenha.cshtml",
-              "DocumentMoniker": "D:\\ODE\\Sint-2024-e3-proj-back-t1-fork-\\src\\src_etapa3\\projeto\\Views\\Alunos\\RecuperarSenha.cshtml",
+              "DocumentMoniker": "C:\\Users\\arthu\\OneDrive\\Documentos\\GitHub\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Views\\Alunos\\RecuperarSenha.cshtml",
               "RelativeDocumentMoniker": "Views\\Alunos\\RecuperarSenha.cshtml",
-              "ToolTip": "D:\\ODE\\Sint-2024-e3-proj-back-t1-fork-\\src\\src_etapa3\\projeto\\Views\\Alunos\\RecuperarSenha.cshtml",
+              "ToolTip": "C:\\Users\\arthu\\OneDrive\\Documentos\\GitHub\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Views\\Alunos\\RecuperarSenha.cshtml",
               "RelativeToolTip": "Views\\Alunos\\RecuperarSenha.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -72,9 +129,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "AccessDenied.cshtml",
-              "DocumentMoniker": "D:\\ODE\\Sint-2024-e3-proj-back-t1-fork-\\src\\src_etapa3\\projeto\\Views\\Alunos\\AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\arthu\\OneDrive\\Documentos\\GitHub\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Views\\Alunos\\AccessDenied.cshtml",
               "RelativeDocumentMoniker": "Views\\Alunos\\AccessDenied.cshtml",
-              "ToolTip": "D:\\ODE\\Sint-2024-e3-proj-back-t1-fork-\\src\\src_etapa3\\projeto\\Views\\Alunos\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\arthu\\OneDrive\\Documentos\\GitHub\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Views\\Alunos\\AccessDenied.cshtml",
               "RelativeToolTip": "Views\\Alunos\\AccessDenied.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -82,48 +139,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "FeedAlunoController.cs",
-              "DocumentMoniker": "D:\\ODE\\Sint-2024-e3-proj-back-t1-fork-\\src\\src_etapa3\\projeto\\Controllers\\FeedAlunoController.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\OneDrive\\Documentos\\GitHub\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Controllers\\FeedAlunoController.cs",
               "RelativeDocumentMoniker": "Controllers\\FeedAlunoController.cs",
-              "ToolTip": "D:\\ODE\\Sint-2024-e3-proj-back-t1-fork-\\src\\src_etapa3\\projeto\\Controllers\\FeedAlunoController.cs",
+              "ToolTip": "C:\\Users\\arthu\\OneDrive\\Documentos\\GitHub\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Controllers\\FeedAlunoController.cs",
               "RelativeToolTip": "Controllers\\FeedAlunoController.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAQwCgAAAAdAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAcwEoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T17:59:01.801Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\ODE\\Sint-2024-e3-proj-back-t1-fork-\\src\\src_etapa3\\projeto\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\arthu\\OneDrive\\Documentos\\GitHub\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\ODE\\Sint-2024-e3-proj-back-t1-fork-\\src\\src_etapa3\\projeto\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\arthu\\OneDrive\\Documentos\\GitHub\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABoAAAAAAAAAAAAYwDQAAAAZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-28T16:49:21.921Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\ODE\\Sint-2024-e3-proj-back-t1-fork-\\src\\src_etapa3\\projeto\\Views\\Alunos\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\arthu\\OneDrive\\Documentos\\GitHub\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Views\\Alunos\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Alunos\\Login.cshtml",
-              "ToolTip": "D:\\ODE\\Sint-2024-e3-proj-back-t1-fork-\\src\\src_etapa3\\projeto\\Views\\Alunos\\Login.cshtml",
+              "ToolTip": "C:\\Users\\arthu\\OneDrive\\Documentos\\GitHub\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Views\\Alunos\\Login.cshtml",
               "RelativeToolTip": "Views\\Alunos\\Login.cshtml",
               "ViewState": "AQIAAAEAAAAAAAAAAAAmwBsAAABbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-28T15:01:55.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-28T15:01:55.112Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "EmailSender.cs",
-              "DocumentMoniker": "D:\\ODE\\Sint-2024-e3-proj-back-t1-fork-\\src\\src_etapa3\\projeto\\Data\\EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\OneDrive\\Documentos\\GitHub\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Data\\EmailSender.cs",
               "RelativeDocumentMoniker": "Data\\EmailSender.cs",
-              "ToolTip": "D:\\ODE\\Sint-2024-e3-proj-back-t1-fork-\\src\\src_etapa3\\projeto\\Data\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\arthu\\OneDrive\\Documentos\\GitHub\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Data\\EmailSender.cs",
               "RelativeToolTip": "Data\\EmailSender.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -131,11 +187,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ODE\\Sint-2024-e3-proj-back-t1-fork-\\src\\src_etapa3\\projeto\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\OneDrive\\Documentos\\GitHub\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\ODE\\Sint-2024-e3-proj-back-t1-fork-\\src\\src_etapa3\\projeto\\Program.cs",
+              "ToolTip": "C:\\Users\\arthu\\OneDrive\\Documentos\\GitHub\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAAADAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -143,11 +199,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\ODE\\Sint-2024-e3-proj-back-t1-fork-\\src\\src_etapa3\\projeto\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\arthu\\OneDrive\\Documentos\\GitHub\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\ODE\\Sint-2024-e3-proj-back-t1-fork-\\src\\src_etapa3\\projeto\\appsettings.json",
+              "ToolTip": "C:\\Users\\arthu\\OneDrive\\Documentos\\GitHub\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -155,11 +211,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "ConfirmarEmail.cshtml",
-              "DocumentMoniker": "D:\\ODE\\Sint-2024-e3-proj-back-t1-fork-\\src\\src_etapa3\\projeto\\Views\\Alunos\\ConfirmarEmail.cshtml",
+              "DocumentMoniker": "C:\\Users\\arthu\\OneDrive\\Documentos\\GitHub\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Views\\Alunos\\ConfirmarEmail.cshtml",
               "RelativeDocumentMoniker": "Views\\Alunos\\ConfirmarEmail.cshtml",
-              "ToolTip": "D:\\ODE\\Sint-2024-e3-proj-back-t1-fork-\\src\\src_etapa3\\projeto\\Views\\Alunos\\ConfirmarEmail.cshtml",
+              "ToolTip": "C:\\Users\\arthu\\OneDrive\\Documentos\\GitHub\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Views\\Alunos\\ConfirmarEmail.cshtml",
               "RelativeToolTip": "Views\\Alunos\\ConfirmarEmail.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -167,11 +223,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "AlunosController.cs",
-              "DocumentMoniker": "D:\\ODE\\Sint-2024-e3-proj-back-t1-fork-\\src\\src_etapa3\\projeto\\Controllers\\AlunosController.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\OneDrive\\Documentos\\GitHub\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Controllers\\AlunosController.cs",
               "RelativeDocumentMoniker": "Controllers\\AlunosController.cs",
-              "ToolTip": "D:\\ODE\\Sint-2024-e3-proj-back-t1-fork-\\src\\src_etapa3\\projeto\\Controllers\\AlunosController.cs",
+              "ToolTip": "C:\\Users\\arthu\\OneDrive\\Documentos\\GitHub\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Controllers\\AlunosController.cs",
               "RelativeToolTip": "Controllers\\AlunosController.cs",
               "ViewState": "AQIAABABAAAAAAAAAAAqwCwBAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

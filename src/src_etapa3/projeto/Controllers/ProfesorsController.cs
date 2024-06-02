@@ -39,7 +39,7 @@ namespace projeto.Controllers
         }
 
         // GET: Profesors/Create
-        [Authorize]
+        
         public IActionResult Create()
         {
             return View();
@@ -47,8 +47,8 @@ namespace projeto.Controllers
 
         // POST: Profesors/Create
         [HttpPost]
-        [Authorize]
-        [ValidateAntiForgeryToken]
+        
+        
         public async Task<IActionResult> Create([Bind("Id,Cpf,Name,Email,Senha,Materias")] Professor professor)
         {
             if (ModelState.IsValid)

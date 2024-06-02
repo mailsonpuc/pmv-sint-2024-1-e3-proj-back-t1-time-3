@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arthu\\OneDrive\\Documentos\\GitHub\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\projeto.csproj": {}
+    "C:\\Users\\Casa\\Documents\\GitHub\\Nova pasta\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\projeto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arthu\\OneDrive\\Documentos\\GitHub\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\projeto.csproj": {
+    "C:\\Users\\Casa\\Documents\\GitHub\\Nova pasta\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\projeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arthu\\OneDrive\\Documentos\\GitHub\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\projeto.csproj",
+        "projectUniqueName": "C:\\Users\\Casa\\Documents\\GitHub\\Nova pasta\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\projeto.csproj",
         "projectName": "projeto",
-        "projectPath": "C:\\Users\\arthu\\OneDrive\\Documentos\\GitHub\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\projeto.csproj",
-        "packagesPath": "C:\\Users\\arthu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arthu\\OneDrive\\Documentos\\GitHub\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\obj\\",
+        "projectPath": "C:\\Users\\Casa\\Documents\\GitHub\\Nova pasta\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\projeto.csproj",
+        "packagesPath": "C:\\Users\\Casa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Casa\\Documents\\GitHub\\Nova pasta\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\arthu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Casa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

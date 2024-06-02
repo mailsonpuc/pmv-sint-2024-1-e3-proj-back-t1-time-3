@@ -1,12 +1,117 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\repositorios\\puc\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Casa\\Documents\\GitHub\\Nova pasta\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Casa\\Documents\\GitHub\\Nova pasta\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\docs\\07-Programa\u00E7\u00E3o de Funcionalidades.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\07-Programa\u00E7\u00E3o de Funcionalidades.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Casa\\Documents\\GitHub\\Nova pasta\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Controllers\\AlunosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\src_etapa3\\projeto\\Controllers\\AlunosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Casa\\Documents\\GitHub\\Nova pasta\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\src_etapa3\\projeto\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Casa\\Documents\\GitHub\\Nova pasta\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Controllers\\MarcarAulasController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\src_etapa3\\projeto\\Controllers\\MarcarAulasController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Casa\\Documents\\GitHub\\Nova pasta\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Controllers\\ProfesorsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\src_etapa3\\projeto\\Controllers\\ProfesorsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\GitHub\\Nova pasta\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Program.cs",
+              "RelativeDocumentMoniker": "src\\src_etapa3\\projeto\\Program.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\GitHub\\Nova pasta\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Program.cs",
+              "RelativeToolTip": "src\\src_etapa3\\projeto\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:43:20.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MarcarAulasController.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\GitHub\\Nova pasta\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Controllers\\MarcarAulasController.cs",
+              "RelativeDocumentMoniker": "src\\src_etapa3\\projeto\\Controllers\\MarcarAulasController.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\GitHub\\Nova pasta\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Controllers\\MarcarAulasController.cs",
+              "RelativeToolTip": "src\\src_etapa3\\projeto\\Controllers\\MarcarAulasController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:38:15.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "07-Programa\u00E7\u00E3o de Funcionalidades.md",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\GitHub\\Nova pasta\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\docs\\07-Programa\u00E7\u00E3o de Funcionalidades.md",
+              "RelativeDocumentMoniker": "docs\\07-Programa\u00E7\u00E3o de Funcionalidades.md",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\GitHub\\Nova pasta\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\docs\\07-Programa\u00E7\u00E3o de Funcionalidades.md",
+              "RelativeToolTip": "docs\\07-Programa\u00E7\u00E3o de Funcionalidades.md",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAC0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-06-02T21:32:30.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProfesorsController.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\GitHub\\Nova pasta\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Controllers\\ProfesorsController.cs",
+              "RelativeDocumentMoniker": "src\\src_etapa3\\projeto\\Controllers\\ProfesorsController.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\GitHub\\Nova pasta\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Controllers\\ProfesorsController.cs",
+              "RelativeToolTip": "src\\src_etapa3\\projeto\\Controllers\\ProfesorsController.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:31:58.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlunosController.cs",
+              "DocumentMoniker": "C:\\Users\\Casa\\Documents\\GitHub\\Nova pasta\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Controllers\\AlunosController.cs",
+              "RelativeDocumentMoniker": "src\\src_etapa3\\projeto\\Controllers\\AlunosController.cs",
+              "ToolTip": "C:\\Users\\Casa\\Documents\\GitHub\\Nova pasta\\pmv-sint-2024-1-e3-proj-back-t1-time-3\\src\\src_etapa3\\projeto\\Controllers\\AlunosController.cs",
+              "RelativeToolTip": "src\\src_etapa3\\projeto\\Controllers\\AlunosController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:30:20.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -17,6 +17,7 @@
 * Mailson da Silva Costa
 * Marco Antonio de Oliveira Costa Júnior
 * Nickolas Ribeiro de Mendonça
+* Gustavo Santos da Silva
 
 ## Orientador
 

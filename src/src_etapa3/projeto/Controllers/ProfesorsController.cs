@@ -4,6 +4,7 @@ using projeto.Models;
 using projeto.Data;
 using Microsoft.AspNetCore.Authorization;
 using System.Security.Claims;
+using Microsoft.AspNetCore.Authentication;
 
 namespace projeto.Controllers
 {
@@ -38,8 +39,52 @@ namespace projeto.Controllers
             return View(professor);
         }
 
+        // GET: Profesors/Login
+        [AllowAnonymous] 
+        public IActionResult Login()
+        {
+            return View();
+        }
+
+        // POST: Profesors/Login
+        [HttpPost]
+        [AllowAnonymous]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Login(Professor professor)
+        {
+            var dados = await _context.Professor.FirstOrDefaultAsync(p => p.Email == professor.Email);
+
+            if (dados == null || !BCrypt.Net.BCrypt.Verify(professor.Senha, dados.Senha))
+            {
+                ViewBag.Message = "Usu�rio ou senha inv�lidos";
+                return View();
+            }
+
+            var claims = new List<Claim>
+            {
+                new Claim(ClaimTypes.Name, dados.Name),
+                new Claim(ClaimTypes.NameIdentifier, dados.Id.ToString()),
+                new Claim(ClaimTypes.Email, dados.Email),
+                new Claim("Materias", dados.Materias.ToString())
+            };
+
+            var professorIdentity = new ClaimsIdentity(claims, "loginProfessor");
+            ClaimsPrincipal principal = new ClaimsPrincipal(professorIdentity);
+
+            var props = new AuthenticationProperties
+            {
+                AllowRefresh = true,
+                ExpiresUtc = DateTime.UtcNow.ToLocalTime().AddHours(8),
+                IsPersistent = true
+            };
+
+            await HttpContext.SignInAsync(principal, props);
+
+            return RedirectToAction("Index", "Home");
+        }
+
         // GET: Profesors/Create
-        
+        [Authorize]
         public IActionResult Create()
         {
             return View();
@@ -47,8 +92,8 @@ namespace projeto.Controllers
 
         // POST: Profesors/Create
         [HttpPost]
-        
-        
+        [Authorize]
+        [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,Cpf,Name,Email,Senha,Materias")] Professor professor)
         {
             if (ModelState.IsValid)

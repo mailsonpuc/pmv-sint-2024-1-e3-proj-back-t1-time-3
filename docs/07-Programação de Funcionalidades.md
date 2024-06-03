@@ -38,7 +38,7 @@ parte do aluno.
 
 <img src="img/Screenshot_7.png">
 
-# Login e autentificação
+# Login e autenticação
 
 
 <img src="img/Screenshot_10.png">

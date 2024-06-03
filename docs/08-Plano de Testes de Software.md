@@ -20,9 +20,10 @@ Este plano de testes cobre os testes de [tipos de testes, por exemplo, unitário
 ## 2. Itens de Teste
 
 ### 2.1 Funcionalidades a serem testadas
-- [Funcionalidade 1]
-- [Funcionalidade 2]
-- [Funcionalidade 3]
+- Login de Professor
+- Login de Aluno
+- Validação de Senha
+- Validação de Email
 
 ### 2.2 Funcionalidades que não serão testadas
 - [Funcionalidade 1]

@@ -1,20 +1,15 @@
 # Plano de Testes de Usabilidade
 
-Claro! Abaixo segue um exemplo básico de um template de Plano de Testes de Usabilidade para um projeto no GitHub:
-
----
-
-# Plano de Testes de Usabilidade
 
 ## Objetivo
-O objetivo deste plano é descrever os procedimentos para realizar testes de usabilidade no projeto [Nome do Projeto] hospedado no GitHub, visando identificar e corrigir problemas de usabilidade que possam afetar a experiência do usuário.
+O objetivo deste plano é descrever os procedimentos para realizar testes de usabilidade no projeto `Ead Async` hospedado no GitHub, visando identificar e corrigir problemas de usabilidade que possam afetar a experiência do usuário.
 
 ## Equipe de Testes
-- **Responsável pelos Testes:** [Nome]
-- **Data dos Testes:** [Data prevista para os testes]
+- **Responsável pelos Testes:** Mailson
+- **Data dos Testes:** 23/06/2024
 
 ## Recursos Necessários
-- Acesso ao projeto hospedado no GitHub ([Link para o repositório])
+- Acesso ao projeto hospedado no GitHub ([[Link para o repositório](https://github.com/mailsonpuc/pmv-sint-2024-1-e3-proj-back-t1-time-3)])
 - Dispositivos de teste (computador desktop, tablet, smartphone, etc.)
 - Gravador de tela (opcional)
 - Questionário de avaliação de usabilidade (opcional)
@@ -22,7 +17,7 @@ O objetivo deste plano é descrever os procedimentos para realizar testes de usa
 ## Metodologia
 Os testes de usabilidade serão conduzidos utilizando a seguinte metodologia:
 
-1. **Seleção dos Participantes:** Serão recrutados [número] participantes representativos do público-alvo do projeto.
+1. **Seleção dos Participantes:** Serão recrutados 2 participantes representativos do público-alvo do projeto.
    
 2. **Cenários de Teste:** Serão criados cenários realistas que os participantes deverão seguir para realizar as tarefas no projeto. Exemplos de cenários incluem:
 

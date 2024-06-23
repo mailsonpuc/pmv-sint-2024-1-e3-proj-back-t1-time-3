@@ -1,11 +1,61 @@
 # Plano de Testes de Usabilidade
 
-O teste de usabilidade permite avaliar a qualidade da interface com o usuário da aplicação interativa. O Plano de Testes de Software é gerado a partir da especificação do sistema e consiste em casos de testes que deverão ser executados quando a implementação estiver parcial ou totalmente pronta.
+Claro! Abaixo segue um exemplo básico de um template de Plano de Testes de Usabilidade para um projeto no GitHub:
 
-As referências abaixo irão auxiliá-lo na geração do artefato "Plano de Testes de Usabilidade".
+---
 
-> **Links Úteis**:
-> - [Teste De Usabilidade: O Que É e Como Fazer Passo a Passo (neilpatel.com)](https://neilpatel.com/br/blog/teste-de-usabilidade/)
-> - [Teste de usabilidade: tudo o que você precisa saber! | by Jon Vieira | Aela.io | Medium](https://medium.com/aela/teste-de-usabilidade-o-que-voc%C3%AA-precisa-saber-39a36343d9a6/)
-> - [Planejando testes de usabilidade: o que (e o que não) fazer | iMasters](https://imasters.com.br/design-ux/planejando-testes-de-usabilidade-o-que-e-o-que-nao-fazer/)
-> - [Ferramentas de Testes de Usabilidade](https://www.usability.gov/how-to-and-tools/resources/templates.html)
+# Plano de Testes de Usabilidade
+
+## Objetivo
+O objetivo deste plano é descrever os procedimentos para realizar testes de usabilidade no projeto [Nome do Projeto] hospedado no GitHub, visando identificar e corrigir problemas de usabilidade que possam afetar a experiência do usuário.
+
+## Equipe de Testes
+- **Responsável pelos Testes:** [Nome]
+- **Data dos Testes:** [Data prevista para os testes]
+
+## Recursos Necessários
+- Acesso ao projeto hospedado no GitHub ([Link para o repositório])
+- Dispositivos de teste (computador desktop, tablet, smartphone, etc.)
+- Gravador de tela (opcional)
+- Questionário de avaliação de usabilidade (opcional)
+
+## Metodologia
+Os testes de usabilidade serão conduzidos utilizando a seguinte metodologia:
+
+1. **Seleção dos Participantes:** Serão recrutados [número] participantes representativos do público-alvo do projeto.
+   
+2. **Cenários de Teste:** Serão criados cenários realistas que os participantes deverão seguir para realizar as tarefas no projeto. Exemplos de cenários incluem:
+
+   - Criar uma nova conta de usuário.
+   - Realizar uma busca por [funcionalidade específica].
+   - Completar um processo de compra.
+   - Navegar até a página [nome da página específica].
+
+3. **Procedimento:**
+   - Cada participante receberá os cenários de teste e será encorajado a pensar em voz alta durante a realização das tarefas.
+   - O responsável pelos testes observará o comportamento dos participantes, registrando problemas de usabilidade, tempo gasto em cada tarefa e feedback geral.
+   - O uso de gravador de tela pode ser utilizado para capturar a interação dos participantes, com consentimento prévio.
+
+4. **Avaliação dos Resultados:** Ao final dos testes, será feita uma análise dos resultados para identificar padrões de problemas de usabilidade. Os problemas serão categorizados de acordo com sua severidade e serão sugeridas soluções para cada um.
+
+5. **Relatório de Testes de Usabilidade:** Um relatório será preparado, incluindo uma síntese dos problemas encontrados, recomendações para melhorias e insights gerais sobre a usabilidade do projeto.
+
+## Cronograma
+- **Preparação dos Testes:** [Data de início] a [Data de término]
+- **Execução dos Testes:** [Data de início] a [Data de término]
+- **Análise dos Resultados:** [Data de início] a [Data de término]
+- **Entrega do Relatório Final:** [Data de entrega]
+
+## Responsabilidades
+- **Responsável pelo Projeto:** [Nome da pessoa responsável pelo projeto]
+  - Coordenar o acesso ao projeto no GitHub e fornecer suporte técnico durante os testes, se necessário.
+- **Responsável pelos Testes:** [Nome da pessoa responsável pelos testes]
+  - Conduzir os testes de usabilidade conforme o plano estabelecido.
+  - Elaborar o relatório final com os resultados dos testes.
+
+## Assinaturas
+Aprovação do Plano de Testes de Usabilidade:
+
+[Assinatura do Responsável pelo Projeto]                           [Data]
+
+[Assinatura do Responsável pelos Testes]                           [Data]

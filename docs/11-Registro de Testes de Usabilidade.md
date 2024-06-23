@@ -1,8 +1,24 @@
-# Registro de Testes de Usabilidade
+### Testes de Usabilidade - Resultados
 
-Após realizar os testes de usabilidade, obtém-se um relatório a partir das análises realizadas. O Registro de Testes de Usabilidade é um relatório que contém as evidências dos testes e relatos dos usuários participantes, baseado no Plano de Testes de Usabilidade desenvolvido para os casos de uso desta etapa.
+#### Descrição:
+Realizamos testes de usabilidade para identificar problemas que afetam a experiência do usuário no projeto `Ead Async`.
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Registro de Testes de Usabilidade”.
+#### Problemas Identificados:
+- **Navegação:** Usuários tiveram dificuldades no redirecionamento quando clicar em `Perfil Professor`,`Feed Aluno`, `Feed Professor` a ação so funciona quado está logado.
+- **Layout:** A sobreposição de elemento acessibilidade de mudar a cor na página inicial, quando clicar, muda a cor da página, mas para desfazer, o usuário precisa atualizar a página, o certo de se fazer era: quando clicar de novo, voltar à cor normal..
 
-> **Links Úteis**:
-> - [Ferramentas de Testes de Usabilidade](https://www.usability.gov/how-to-and-tools/resources/templates.html)
+#### Recomendações de Melhoria:
+- **Layout:** Revisar a logica do codigo js de acessibilade em `src/src_etapa3/projeto/wwwroot/js/site.js`.
+- Tirar os menus e exibi apenas para quem estiver logado na aplicação.
+
+#### Insights e Observações:
+- Os usuários apreciaram a simplicidade do processo de registro, destacando-o como um ponto forte do projeto.
+- Melhorar a consistência visual ao longo do fluxo de interação pode aumentar a confiança dos usuários na utilização do sistema.
+
+#### Marcadores:
+- `usabilidade`
+- `layout`
+- `navegação`
+
+#### Milestone:
+- Sessão de Testes de Usabilidade - `23/06/2024`

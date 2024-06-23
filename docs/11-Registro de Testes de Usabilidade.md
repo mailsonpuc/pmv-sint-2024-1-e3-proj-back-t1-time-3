@@ -9,7 +9,7 @@ Realizamos testes de usabilidade para identificar problemas que afetam a experi�
 
 #### Recomendações de Melhoria:
 - **Layout:** Revisar a logica do codigo js de acessibilade em `src/src_etapa3/projeto/wwwroot/js/site.js`.
-- Tirar os menus e exibi apenas para quem estiver logado na aplicação.
+- Tirar os menus e exibir apenas para quem estiver logado na aplicação.
 
 #### Insights e Observações:
 - Os usuários apreciaram a simplicidade do processo de registro, destacando-o como um ponto forte do projeto.

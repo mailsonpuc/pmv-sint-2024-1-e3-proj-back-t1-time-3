@@ -22,9 +22,9 @@ Os testes de usabilidade serão conduzidos utilizando a seguinte metodologia:
 2. **Cenários de Teste:** Serão criados cenários realistas que os participantes deverão seguir para realizar as tarefas no projeto. Exemplos de cenários incluem:
 
    - Criar uma nova conta de usuário.
-   - Realizar uma busca por [funcionalidade específica].
-   - Completar um processo de compra.
-   - Navegar até a página [nome da página específica].
+   - Realizar uma busca por alunos.
+   - Completar um processo de visão geral da aplicação.
+   - Navegar até a página recuperar senha.
 
 3. **Procedimento:**
    - Cada participante receberá os cenários de teste e será encorajado a pensar em voz alta durante a realização das tarefas.
@@ -36,21 +36,30 @@ Os testes de usabilidade serão conduzidos utilizando a seguinte metodologia:
 5. **Relatório de Testes de Usabilidade:** Um relatório será preparado, incluindo uma síntese dos problemas encontrados, recomendações para melhorias e insights gerais sobre a usabilidade do projeto.
 
 ## Cronograma
-- **Preparação dos Testes:** [Data de início] a [Data de término]
-- **Execução dos Testes:** [Data de início] a [Data de término]
-- **Análise dos Resultados:** [Data de início] a [Data de término]
-- **Entrega do Relatório Final:** [Data de entrega]
+- **Preparação dos Testes:** 22/06/2024 a 23/06/2024
+- **Execução dos Testes:** 22/06/2024 a 23/06/2024
+- **Análise dos Resultados:** 22/06/2024 a 23/06/2024
+- **Entrega do Relatório Final:** 23/06/2024
 
 ## Responsabilidades
-- **Responsável pelo Projeto:** [Nome da pessoa responsável pelo projeto]
+- **Responsável pelo Projeto:** Frederico Arleo Rezende Zampier
   - Coordenar o acesso ao projeto no GitHub e fornecer suporte técnico durante os testes, se necessário.
-- **Responsável pelos Testes:** [Nome da pessoa responsável pelos testes]
+- **Responsável pelos Testes:** Mailson Da Silva Costa.
   - Conduzir os testes de usabilidade conforme o plano estabelecido.
   - Elaborar o relatório final com os resultados dos testes.
 
 ## Assinaturas
 Aprovação do Plano de Testes de Usabilidade:
 
-[Assinatura do Responsável pelo Projeto]                           [Data]
 
-[Assinatura do Responsável pelos Testes]                           [Data]
+
+|  nome                                   |   data        |
+| -------------                           | ------------- |
+| Arthur de Oliveira Viotti               | 23/06/2024    |
+| Frederico Arleo Rezende                 | 23/06/2024    |
+| Lizandra Ruiz Cavalcante dos Santos     | 23/06/2024    |
+| Mailson da Silva Costa                  | 23/06/2024    |
+| Marco Antonio de Oliveira Costa Júnior  | 23/06/2024    |
+| Nickolas Ribeiro de Mendonça            | 23/06/2024    |
+| Gustavo Santos da Silva                 | 23/06/2024    |
+
